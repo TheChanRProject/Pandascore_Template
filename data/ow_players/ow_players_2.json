@@ -1,0 +1,2478 @@
+[
+    {
+        "birth_year": 1989,
+        "birthday": "1989-07-15",
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Tiago",
+        "hometown": "Portugal",
+        "id": 9087,
+        "image_url": null,
+        "last_name": "Rodrigues",
+        "name": "mowzassa",
+        "nationality": "PT",
+        "role": "Tank",
+        "slug": "mowzassa"
+    },
+    {
+        "birth_year": 1998,
+        "birthday": "1998-03-13",
+        "current_team": {
+            "acronym": "UA",
+            "id": 19100,
+            "image_url": "https://cdn.pandascore.co/images/team/image/19100/VCVJUXJ3B2711553641550038.png",
+            "location": "US",
+            "modified_at": "2019-08-11T19:21:52Z",
+            "name": "Uprising Academy",
+            "slug": "ex-toronto-esports"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Alexandre",
+        "hometown": "Portugal",
+        "id": 9086,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9086/600px_angry_titans___phatt002.png",
+        "last_name": "Silva",
+        "name": "Phatt",
+        "nationality": "PT",
+        "role": "Support",
+        "slug": "phatt"
+    },
+    {
+        "birth_year": 1994,
+        "birthday": "1994-01-10",
+        "current_team": {
+            "acronym": "PAR",
+            "id": 3433,
+            "image_url": "https://cdn.pandascore.co/images/team/image/3433/519px_paris_eternal_logo_no_text.png",
+            "location": "FR",
+            "modified_at": "2020-01-22T02:45:05Z",
+            "name": "Paris Eternal",
+            "slug": "paris"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Lu\u00eds",
+        "hometown": "Barcelos, Portugal",
+        "id": 9085,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9085/TSNNUH7EW7TP1549652245348.png",
+        "last_name": "Perestrelo",
+        "name": "Greyy",
+        "nationality": "PT",
+        "role": "Support",
+        "slug": "greyy"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "PRT",
+            "id": 1621,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1621/1200px_flag_of_portugal.svg.png",
+            "location": "PT",
+            "modified_at": "2019-10-31T07:00:08Z",
+            "name": "Portugal",
+            "slug": "portugal"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Nuno",
+        "hometown": "Portugal",
+        "id": 9083,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9083/Kiler4fun_2016_OMENFnac.jpg",
+        "last_name": "Ferreira",
+        "name": "kiler4fun",
+        "nationality": null,
+        "role": "Flex",
+        "slug": "kiler4fun"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "PRT",
+            "id": 1621,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1621/1200px_flag_of_portugal.svg.png",
+            "location": "PT",
+            "modified_at": "2019-10-31T07:00:08Z",
+            "name": "Portugal",
+            "slug": "portugal"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Eduardo",
+        "hometown": "Portugal",
+        "id": 9082,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9082/600px-Addicted.jpg",
+        "last_name": "Torres",
+        "name": "Addicted",
+        "nationality": null,
+        "role": "Flex",
+        "slug": "addicted"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "AUS",
+            "id": 1607,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1607/1200px_flag_of_australia__converted_.svg.png",
+            "location": "AU",
+            "modified_at": "2020-02-12T02:04:24Z",
+            "name": "Australia",
+            "slug": "australia"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Marcus",
+        "hometown": "Australia",
+        "id": 9080,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9080/600px-Kiki_OPC_S1.jpg",
+        "last_name": "Jacob",
+        "name": "xZoL",
+        "nationality": null,
+        "role": "Flex",
+        "slug": "kiki-marcus-jacob"
+    },
+    {
+        "birth_year": 1997,
+        "birthday": "1997-02-16",
+        "current_team": {
+            "acronym": "DAL",
+            "id": 1544,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1544/dallas_fuel_logo_no_text.png",
+            "location": "US",
+            "modified_at": "2020-02-04T16:23:33Z",
+            "name": "Dallas Fuel",
+            "slug": "dallas-fuel"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Ashley",
+        "hometown": "Australia",
+        "id": 9079,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9079/5EP64588D0GV1562697278802.png",
+        "last_name": "Powell",
+        "name": "Trill",
+        "nationality": "AU",
+        "role": "Tank",
+        "slug": "trill"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "AUS",
+            "id": 1607,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1607/1200px_flag_of_australia__converted_.svg.png",
+            "location": "AU",
+            "modified_at": "2020-02-12T02:04:24Z",
+            "name": "Australia",
+            "slug": "australia"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Andrew",
+        "hometown": "Australia",
+        "id": 9078,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9078/600px-Rqt_OPC_S2.jpg",
+        "last_name": "Haws",
+        "name": "Rqt",
+        "nationality": null,
+        "role": "Support",
+        "slug": "rqt"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Jordan",
+        "hometown": "Australia",
+        "id": 9077,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9077/GNB.jpg",
+        "last_name": "Graham",
+        "name": "Gunba",
+        "nationality": null,
+        "role": "Coach",
+        "slug": "gunba"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "AUS",
+            "id": 1607,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1607/1200px_flag_of_australia__converted_.svg.png",
+            "location": "AU",
+            "modified_at": "2020-02-12T02:04:24Z",
+            "name": "Australia",
+            "slug": "australia"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Jason",
+        "hometown": "Australia",
+        "id": 9076,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9076/Apac_2017_blk_ieatuup.jpg",
+        "last_name": "Ho",
+        "name": "ieatuup",
+        "nationality": null,
+        "role": "DPS",
+        "slug": "ieatuup"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "AUS",
+            "id": 1607,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1607/1200px_flag_of_australia__converted_.svg.png",
+            "location": "AU",
+            "modified_at": "2020-02-12T02:04:24Z",
+            "name": "Australia",
+            "slug": "australia"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Ajay",
+        "hometown": "Australia",
+        "id": 9075,
+        "image_url": null,
+        "last_name": "Umasankar",
+        "name": "Aetar",
+        "nationality": null,
+        "role": "DPS",
+        "slug": "aetar"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "SWE",
+            "id": 1605,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1605/255px_flag_of_sweden.svg.png",
+            "location": "SE",
+            "modified_at": "2019-11-01T01:02:22Z",
+            "name": "Sweden",
+            "slug": "sweden"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Jonathan",
+        "hometown": "Sweden",
+        "id": 9074,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9074/600px-Reinforce_WC2016.jpeg",
+        "last_name": "Larsson",
+        "name": "Reinforce",
+        "nationality": null,
+        "role": "Tank",
+        "slug": "reinforce"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "AR",
+            "id": 1628,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1628/argentina.png",
+            "location": "AR",
+            "modified_at": "2018-08-23T12:34:18Z",
+            "name": "Argentina",
+            "slug": "argentina"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Mariano",
+        "hometown": "Argentina",
+        "id": 9069,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9069/600px-NektaOWWC17.jpg",
+        "last_name": "Di Cicco",
+        "name": "Nekta",
+        "nationality": null,
+        "role": "Tank",
+        "slug": "nekta"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Julian",
+        "hometown": "Argentina",
+        "id": 9068,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9068/7854100004780000.jpg",
+        "last_name": "Lauandos",
+        "name": "BEAST",
+        "nationality": null,
+        "role": "Flex",
+        "slug": "beast-julian-lauandos"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "AR",
+            "id": 1628,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1628/argentina.png",
+            "location": "AR",
+            "modified_at": "2018-08-23T12:34:18Z",
+            "name": "Argentina",
+            "slug": "argentina"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": null,
+        "hometown": "Argentina",
+        "id": 9067,
+        "image_url": null,
+        "last_name": null,
+        "name": "Ddx",
+        "nationality": null,
+        "role": "Support",
+        "slug": "ddx"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "AR",
+            "id": 1628,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1628/argentina.png",
+            "location": "AR",
+            "modified_at": "2018-08-23T12:34:18Z",
+            "name": "Argentina",
+            "slug": "argentina"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Nicolas",
+        "hometown": "Argentina",
+        "id": 9065,
+        "image_url": null,
+        "last_name": "Brosio",
+        "name": "LeviataN",
+        "nationality": null,
+        "role": "DPS",
+        "slug": "leviatan"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "AR",
+            "id": 1628,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1628/argentina.png",
+            "location": "AR",
+            "modified_at": "2018-08-23T12:34:18Z",
+            "name": "Argentina",
+            "slug": "argentina"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Carlos",
+        "hometown": "Argentina",
+        "id": 9064,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9064/600px-BattletoadOWWC17.jpg",
+        "last_name": "Riccardi",
+        "name": "Battletoad",
+        "nationality": null,
+        "role": "Support",
+        "slug": "battletoad"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "DNK",
+            "id": 1620,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1620/2000px_flag_of_denmark.svg.png",
+            "location": "DK",
+            "modified_at": "2019-11-02T02:26:04Z",
+            "name": "Denmark",
+            "slug": "denmark"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Andreas",
+        "hometown": "Denmark",
+        "id": 9063,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9063/600px-Lind.JPG",
+        "last_name": "Lindblad",
+        "name": "Lind",
+        "nationality": null,
+        "role": "Support",
+        "slug": "lind"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "DNK",
+            "id": 1620,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1620/2000px_flag_of_denmark.svg.png",
+            "location": "DK",
+            "modified_at": "2019-11-02T02:26:04Z",
+            "name": "Denmark",
+            "slug": "denmark"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Gustav",
+        "hometown": "Denmark",
+        "id": 9062,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9062/600px-NerfddOWWC.jpg",
+        "last_name": "Guldager",
+        "name": "Nerfdd",
+        "nationality": null,
+        "role": "Tank",
+        "slug": "nerfdd"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "DNK",
+            "id": 1620,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1620/2000px_flag_of_denmark.svg.png",
+            "location": "DK",
+            "modified_at": "2019-11-02T02:26:04Z",
+            "name": "Denmark",
+            "slug": "denmark"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Christian",
+        "hometown": "Denmark",
+        "id": 9061,
+        "image_url": null,
+        "last_name": "Gyldenloev",
+        "name": "Krytox",
+        "nationality": null,
+        "role": "DPS",
+        "slug": "krytox"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "HSL",
+            "id": 3463,
+            "image_url": "https://cdn.pandascore.co/images/team/image/3463/hsl-esports.png",
+            "location": "IT",
+            "modified_at": "2020-02-17T04:26:44Z",
+            "name": "HSL Esports",
+            "slug": "hsl-esports"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Mads",
+        "hometown": "Denmark",
+        "id": 9060,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9060/Fischerteamdenmark.png",
+        "last_name": "Jehg",
+        "name": "fischer",
+        "nationality": "DK",
+        "role": "DPS",
+        "slug": "fischer"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "DNK",
+            "id": 1620,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1620/2000px_flag_of_denmark.svg.png",
+            "location": "DK",
+            "modified_at": "2019-11-02T02:26:04Z",
+            "name": "Denmark",
+            "slug": "denmark"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Philip",
+        "hometown": "Denmark",
+        "id": 9059,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9059/Kragie.jpg",
+        "last_name": "Krag",
+        "name": "Kragie",
+        "nationality": null,
+        "role": "DPS",
+        "slug": "kragie"
+    },
+    {
+        "birth_year": 2000,
+        "birthday": "2000-12-05",
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Teetawat",
+        "hometown": "Thailand",
+        "id": 9058,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9058/600px-Teetawatv3_OPC_S1.jpg",
+        "last_name": "Teerayosyotin",
+        "name": "Teetawat",
+        "nationality": "TH",
+        "role": "Tank",
+        "slug": "teetawatv3"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "TH",
+            "id": 1611,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1611/thailand.png",
+            "location": "TH",
+            "modified_at": "2019-10-27T07:43:45Z",
+            "name": "Thailand",
+            "slug": "thailand"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Vatunyoo",
+        "hometown": "Thailand",
+        "id": 9057,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9057/600px-KeRLos_OPC_S1.jpg",
+        "last_name": "Suwannapisit",
+        "name": "keRLos",
+        "nationality": null,
+        "role": "Coach",
+        "slug": "kerlos"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "TLN",
+            "id": 126219,
+            "image_url": "https://cdn.pandascore.co/images/team/image/126219/talon-esports.png",
+            "location": "KR",
+            "modified_at": "2019-10-09T11:33:12Z",
+            "name": "Talon Esports",
+            "slug": "talon-esports"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Ubon",
+        "hometown": "Thailand",
+        "id": 9056,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9056/oputo.png",
+        "last_name": "Dara",
+        "name": "oPuTo",
+        "nationality": null,
+        "role": "DPS",
+        "slug": "oputo"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "TH",
+            "id": 1611,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1611/thailand.png",
+            "location": "TH",
+            "modified_at": "2019-10-27T07:43:45Z",
+            "name": "Thailand",
+            "slug": "thailand"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Sasalak",
+        "hometown": "Thailand",
+        "id": 9055,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9055/600px-Nznr.jpg",
+        "last_name": "Wannarak",
+        "name": "NzNr",
+        "nationality": null,
+        "role": "DPS",
+        "slug": "nznr"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "TH",
+            "id": 1611,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1611/thailand.png",
+            "location": "TH",
+            "modified_at": "2019-10-27T07:43:45Z",
+            "name": "Thailand",
+            "slug": "thailand"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": null,
+        "hometown": "Thailand",
+        "id": 9054,
+        "image_url": null,
+        "last_name": null,
+        "name": "Pannys",
+        "nationality": null,
+        "role": "Support",
+        "slug": "pannys"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "FRA",
+            "id": 1606,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1606/1200px_flag_of_france.svg.png",
+            "location": "FR",
+            "modified_at": "2019-11-02T02:25:02Z",
+            "name": "France",
+            "slug": "france"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Jean-Louis",
+        "hometown": "France",
+        "id": 9053,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9053/600px-Knoxxx_medium.jpg",
+        "last_name": "Boyer",
+        "name": "KnOxXx",
+        "nationality": null,
+        "role": "Tank",
+        "slug": "knoxxx"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "FRA",
+            "id": 1606,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1606/1200px_flag_of_france.svg.png",
+            "location": "FR",
+            "modified_at": "2019-11-02T02:25:02Z",
+            "name": "France",
+            "slug": "france"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Micha\u00ebl",
+        "hometown": "France",
+        "id": 9052,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9052/winzow.jpg",
+        "last_name": "Bignet",
+        "name": "winz",
+        "nationality": null,
+        "role": "Support",
+        "slug": "winz"
+    },
+    {
+        "birth_year": 1995,
+        "birthday": "1995-03-19",
+        "current_team": {
+            "acronym": "PAR",
+            "id": 3433,
+            "image_url": "https://cdn.pandascore.co/images/team/image/3433/519px_paris_eternal_logo_no_text.png",
+            "location": "FR",
+            "modified_at": "2020-01-22T02:45:05Z",
+            "name": "Paris Eternal",
+            "slug": "paris"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Nicolas",
+        "hometown": "Bouilly",
+        "id": 9050,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9050/674PI09ENY9H1549655026431.png",
+        "last_name": "Moret",
+        "name": "NiCOgdh",
+        "nationality": "FR",
+        "role": "Damage",
+        "slug": "nico-nicolas-moret"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "RO",
+            "id": 1627,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1627/romania.png",
+            "location": "RO",
+            "modified_at": "2018-01-18T13:41:04Z",
+            "name": "Romania",
+            "slug": "romania-ow"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Mihail Cristian",
+        "hometown": "Romania",
+        "id": 9049,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9049/image1491326775.png",
+        "last_name": "P\u0103unescu",
+        "name": "Meza",
+        "nationality": null,
+        "role": "Tank",
+        "slug": "meza"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "RO",
+            "id": 1627,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1627/romania.png",
+            "location": "RO",
+            "modified_at": "2018-01-18T13:41:04Z",
+            "name": "Romania",
+            "slug": "romania-ow"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": null,
+        "hometown": "Romania",
+        "id": 9048,
+        "image_url": null,
+        "last_name": null,
+        "name": "tsema",
+        "nationality": null,
+        "role": "Support",
+        "slug": "tsema"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "RO",
+            "id": 1627,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1627/romania.png",
+            "location": "RO",
+            "modified_at": "2018-01-18T13:41:04Z",
+            "name": "Romania",
+            "slug": "romania-ow"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": null,
+        "hometown": "Romania",
+        "id": 9047,
+        "image_url": null,
+        "last_name": null,
+        "name": "mL7",
+        "nationality": null,
+        "role": "Support",
+        "slug": "ml7"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "RO",
+            "id": 1627,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1627/romania.png",
+            "location": "RO",
+            "modified_at": "2018-01-18T13:41:04Z",
+            "name": "Romania",
+            "slug": "romania-ow"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": null,
+        "hometown": "Romania",
+        "id": 9046,
+        "image_url": null,
+        "last_name": null,
+        "name": "cucubau",
+        "nationality": null,
+        "role": "DPS",
+        "slug": "cucubau"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "RO",
+            "id": 1627,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1627/romania.png",
+            "location": "RO",
+            "modified_at": "2018-01-18T13:41:04Z",
+            "name": "Romania",
+            "slug": "romania-ow"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": null,
+        "hometown": "Romania",
+        "id": 9045,
+        "image_url": null,
+        "last_name": null,
+        "name": "RANKNoMoJa",
+        "nationality": null,
+        "role": "Flex",
+        "slug": "ranknomoja"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "RO",
+            "id": 1627,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1627/romania.png",
+            "location": "RO",
+            "modified_at": "2018-01-18T13:41:04Z",
+            "name": "Romania",
+            "slug": "romania-ow"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": null,
+        "hometown": "Romania",
+        "id": 9044,
+        "image_url": null,
+        "last_name": null,
+        "name": "EMKA",
+        "nationality": null,
+        "role": "DPS",
+        "slug": "emka"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "HKG",
+            "id": 1619,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1619/1200px_flag_of_hong_kong.svg.png",
+            "location": "CN",
+            "modified_at": "2019-10-31T06:57:41Z",
+            "name": "Hong Kong",
+            "slug": "hong-kong"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": null,
+        "hometown": "Hong Kong",
+        "id": 9043,
+        "image_url": null,
+        "last_name": null,
+        "name": "Pandaren",
+        "nationality": null,
+        "role": "Coach",
+        "slug": "pandaren"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "HKG",
+            "id": 1619,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1619/1200px_flag_of_hong_kong.svg.png",
+            "location": "CN",
+            "modified_at": "2019-10-31T06:57:41Z",
+            "name": "Hong Kong",
+            "slug": "hong-kong"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": null,
+        "hometown": "Hong Kong",
+        "id": 9042,
+        "image_url": null,
+        "last_name": null,
+        "name": "JazZy",
+        "nationality": null,
+        "role": "Support",
+        "slug": "jazzy"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "HKG",
+            "id": 1619,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1619/1200px_flag_of_hong_kong.svg.png",
+            "location": "CN",
+            "modified_at": "2019-10-31T06:57:41Z",
+            "name": "Hong Kong",
+            "slug": "hong-kong"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": null,
+        "hometown": "Hong Kong",
+        "id": 9041,
+        "image_url": null,
+        "last_name": null,
+        "name": "Hyper",
+        "nationality": null,
+        "role": "Tank",
+        "slug": "hyper"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "HKG",
+            "id": 1619,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1619/1200px_flag_of_hong_kong.svg.png",
+            "location": "CN",
+            "modified_at": "2019-10-31T06:57:41Z",
+            "name": "Hong Kong",
+            "slug": "hong-kong"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Chi-Yeung",
+        "hometown": "Hong Kong",
+        "id": 9040,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9040/600px-Moowe_Heroes_Rumble_2017.jpg",
+        "last_name": "Yip",
+        "name": "Moowe",
+        "nationality": null,
+        "role": "DPS",
+        "slug": "moowe"
+    },
+    {
+        "birth_year": 1998,
+        "birthday": "1998-01-24",
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Kin-Long",
+        "hometown": "Hong Kong ",
+        "id": 9039,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9039/600px-ManGojai_OPC_S1.jpg",
+        "last_name": "Wong",
+        "name": "ManGoJai",
+        "nationality": "HK",
+        "role": "Support",
+        "slug": "mangojai"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "HKG",
+            "id": 1619,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1619/1200px_flag_of_hong_kong.svg.png",
+            "location": "CN",
+            "modified_at": "2019-10-31T06:57:41Z",
+            "name": "Hong Kong",
+            "slug": "hong-kong"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": null,
+        "hometown": "Hong Kong",
+        "id": 9038,
+        "image_url": null,
+        "last_name": null,
+        "name": "Mix",
+        "nationality": null,
+        "role": "Flex",
+        "slug": "mix"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "NOR",
+            "id": 1612,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1612/2000px_flag_of_norway.svg.png",
+            "location": "NO",
+            "modified_at": "2019-10-31T06:16:29Z",
+            "name": "Norway",
+            "slug": "norway"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": null,
+        "hometown": "Norway",
+        "id": 9037,
+        "image_url": null,
+        "last_name": null,
+        "name": "Trob",
+        "nationality": null,
+        "role": "Support",
+        "slug": "trob"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "NOR",
+            "id": 1612,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1612/2000px_flag_of_norway.svg.png",
+            "location": "NO",
+            "modified_at": "2019-10-31T06:16:29Z",
+            "name": "Norway",
+            "slug": "norway"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Greger",
+        "hometown": "Norway",
+        "id": 9036,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9036/Invisionow.jpg",
+        "last_name": "Herland",
+        "name": "Invision",
+        "nationality": null,
+        "role": "DPS",
+        "slug": "invision"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "NOR",
+            "id": 1612,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1612/2000px_flag_of_norway.svg.png",
+            "location": "NO",
+            "modified_at": "2019-10-31T06:16:29Z",
+            "name": "Norway",
+            "slug": "norway"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Christer",
+        "hometown": "Norway",
+        "id": 9035,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9035/600px-IkoOWWC.jpg",
+        "last_name": "Ringelin",
+        "name": "Iko",
+        "nationality": null,
+        "role": "DPS",
+        "slug": "iko"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "NOR",
+            "id": 1612,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1612/2000px_flag_of_norway.svg.png",
+            "location": "NO",
+            "modified_at": "2019-10-31T06:16:29Z",
+            "name": "Norway",
+            "slug": "norway"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": null,
+        "hometown": "Norway",
+        "id": 9034,
+        "image_url": null,
+        "last_name": null,
+        "name": "Moove",
+        "nationality": null,
+        "role": "Tank",
+        "slug": "moove"
+    },
+    {
+        "birth_year": 1997,
+        "birthday": "1997-07-29",
+        "current_team": {
+            "acronym": "NV",
+            "id": 19097,
+            "image_url": "https://cdn.pandascore.co/images/team/image/19097/teamenvy-small.png",
+            "location": "US",
+            "modified_at": "2020-02-04T16:22:51Z",
+            "name": "Team Envy",
+            "slug": "team-envy"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Stefan",
+        "hometown": "Norway",
+        "id": 9033,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9033/onigod.png",
+        "last_name": "Fiskerstrand",
+        "name": "Onigod",
+        "nationality": "NO",
+        "role": "DPS",
+        "slug": "onigod"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Kha",
+        "hometown": "Norway, Vietnam",
+        "id": 9032,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9032/600px-Nor_ipn.jpg",
+        "last_name": "Nguyen",
+        "name": "iPN",
+        "nationality": null,
+        "role": "Support",
+        "slug": "ipn"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "CHN",
+            "id": 1609,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1609/1200px_flag_of_the_people_s_republic_of_china.svg.png",
+            "location": "CN",
+            "modified_at": "2019-11-02T02:23:50Z",
+            "name": "China",
+            "slug": "china"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Li",
+        "hometown": "Chinese",
+        "id": 9031,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9031/OMG_yaoyao_in_OWPS_2017_Summer.png",
+        "last_name": "Haibo",
+        "name": "YaoYao",
+        "nationality": null,
+        "role": "Tank",
+        "slug": "yaoyao"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "CHN",
+            "id": 1609,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1609/1200px_flag_of_the_people_s_republic_of_china.svg.png",
+            "location": "CN",
+            "modified_at": "2019-11-02T02:23:50Z",
+            "name": "China",
+            "slug": "china"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Zheng",
+        "hometown": "China",
+        "id": 9030,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9030/600px-LGD_Shy_in_OWPS_2017_Spring.jpg",
+        "last_name": "Yangjie",
+        "name": "Shy",
+        "nationality": null,
+        "role": "DPS",
+        "slug": "shy-zheng-yangjie"
+    },
+    {
+        "birth_year": 2000,
+        "birthday": "2000-09-26",
+        "current_team": {
+            "acronym": "GZC",
+            "id": 3437,
+            "image_url": "https://cdn.pandascore.co/images/team/image/3437/guangzhou_charge_logo_no_text.png",
+            "location": "CN",
+            "modified_at": "2020-01-22T02:49:42Z",
+            "name": "Guangzhou Charge",
+            "slug": "guangzhou"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Ou",
+        "hometown": " Guangdong",
+        "id": 9029,
+        "image_url": "https://cdn.pandascore.co/images/player/image/9029/2QKIMC550B7R1549664660732.png",
+        "last_name": "Yiliang",
+        "name": "Eileen",
+        "nationality": "CN",
+        "role": "Damage",
+        "slug": "eileen"
+    },
+    {
+        "birth_year": 1998,
+        "birthday": "1998-05-16",
+        "current_team": {
+            "acronym": "DAL",
+            "id": 1544,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1544/dallas_fuel_logo_no_text.png",
+            "location": "US",
+            "modified_at": "2020-02-04T16:23:33Z",
+            "name": "Dallas Fuel",
+            "slug": "dallas-fuel"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Won-sik",
+        "hometown": "Seoul",
+        "id": 8601,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8601/KRV5M2J8YM9T1549664649014.png",
+        "last_name": "Jung",
+        "name": "Closer",
+        "nationality": "KR",
+        "role": "Support",
+        "slug": "closer"
+    },
+    {
+        "birth_year": 1998,
+        "birthday": "1998-01-10",
+        "current_team": {
+            "acronym": "Gen.G",
+            "id": 13763,
+            "image_url": "https://cdn.pandascore.co/images/team/image/13763/gen-g-esports.png",
+            "location": "KR",
+            "modified_at": "2019-10-10T08:26:23Z",
+            "name": "Gen.G esports",
+            "slug": "gen-g-esports"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Seung-hyun",
+        "hometown": "Suwon, South Korea",
+        "id": 8599,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8599/WooHyal_500x.jpg",
+        "last_name": "Sung",
+        "name": "WooHyaL",
+        "nationality": "KR",
+        "role": "Flex",
+        "slug": "woohyal"
+    },
+    {
+        "birth_year": 1994,
+        "birthday": "1994-09-24",
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Hyeon-woo",
+        "hometown": "Jinhae",
+        "id": 8598,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8598/3UYBH9N5975N1549664654787.png",
+        "last_name": "Jo",
+        "name": "HaGoPeun",
+        "nationality": "KR",
+        "role": "support",
+        "slug": "hagopeun"
+    },
+    {
+        "birth_year": 1998,
+        "birthday": "1998-07-23",
+        "current_team": {
+            "acronym": "SFS",
+            "id": 1549,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1549/721px_san_francisco_shock_logo_2020_no_text.png",
+            "location": "US",
+            "modified_at": "2020-01-22T02:16:54Z",
+            "name": "San Francisco Shock",
+            "slug": "san-francisco-shock"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Dong-jun",
+        "hometown": "Seoul",
+        "id": 8596,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8596/ZJEKOTWJKW8U1549652299643.png",
+        "last_name": "Kim",
+        "name": "Rascal",
+        "nationality": "KR",
+        "role": "Damage",
+        "slug": "rascal-dong-jun-kim"
+    },
+    {
+        "birth_year": 1996,
+        "birthday": "1996-09-18",
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Dong-Eun",
+        "hometown": "Busan",
+        "id": 8595,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8595/JMNZKDRMZI1C1550108385834.png",
+        "last_name": "Lee",
+        "name": "Hooreg",
+        "nationality": "KR",
+        "role": "offense",
+        "slug": "hooreg"
+    },
+    {
+        "birth_year": 1999,
+        "birthday": "1999-04-30",
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Jong-seok",
+        "hometown": "Seoul",
+        "id": 8594,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8594/nus.png",
+        "last_name": "Kim",
+        "name": "NUS",
+        "nationality": "KR",
+        "role": "support",
+        "slug": "nus"
+    },
+    {
+        "birth_year": 1996,
+        "birthday": "1996-08-18",
+        "current_team": {
+            "acronym": "SEO",
+            "id": 1554,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1554/seoul_dynasty_logo_no_text.png",
+            "location": "KR",
+            "modified_at": "2020-01-22T02:30:16Z",
+            "name": "Seoul Dynasty",
+            "slug": "seoul-dynasty"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Seung-tae",
+        "hometown": "Suwon",
+        "id": 8593,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8593/bdosin.png",
+        "last_name": "Choi",
+        "name": "Bdosin",
+        "nationality": "KR",
+        "role": "Support",
+        "slug": "bdosin"
+    },
+    {
+        "birth_year": 1999,
+        "birthday": "1999-02-26",
+        "current_team": {
+            "acronym": "VAN",
+            "id": 3439,
+            "image_url": "https://cdn.pandascore.co/images/team/image/3439/vancouver_titans_logo_no_text.png",
+            "location": "CA",
+            "modified_at": "2020-01-22T02:57:27Z",
+            "name": "Vancouver Titans",
+            "slug": "vancouver"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "ChanHyoeng",
+        "hometown": "Hwaseong",
+        "id": 8592,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8592/Z35271EBSSGW1534897319175.png",
+        "last_name": "Baek",
+        "name": "Fissure",
+        "nationality": "KR",
+        "role": "Tank",
+        "slug": "fissure"
+    },
+    {
+        "birth_year": 1999,
+        "birthday": "1999-05-28",
+        "current_team": {
+            "acronym": "GLA",
+            "id": 1551,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1551/603px_los_angeles_gladiators_logo_no_text.png",
+            "location": "US",
+            "modified_at": "2020-01-22T02:20:39Z",
+            "name": "Los Angeles Gladiators",
+            "slug": "los-angeles-gladiators"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Ji-hyeok",
+        "hometown": "Seoul",
+        "id": 8591,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8591/birdring.png",
+        "last_name": "Kim",
+        "name": "birdring",
+        "nationality": "KR",
+        "role": "Damage",
+        "slug": "birdring"
+    },
+    {
+        "birth_year": 1998,
+        "birthday": "1998-01-12",
+        "current_team": {
+            "acronym": "SEO",
+            "id": 1554,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1554/seoul_dynasty_logo_no_text.png",
+            "location": "KR",
+            "modified_at": "2020-01-22T02:30:16Z",
+            "name": "Seoul Dynasty",
+            "slug": "seoul-dynasty"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Jae-hee",
+        "hometown": "Gunsan",
+        "id": 8590,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8590/gesture.png",
+        "last_name": "Hong",
+        "name": "Gesture",
+        "nationality": "KR",
+        "role": "Tank",
+        "slug": "gesture"
+    },
+    {
+        "birth_year": 1999,
+        "birthday": "1999-09-02",
+        "current_team": {
+            "acronym": "SHD",
+            "id": 1553,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1553/shanghai_dragons_logo_no_text.png",
+            "location": "CN",
+            "modified_at": "2020-01-22T02:27:27Z",
+            "name": "Shanghai Dragons",
+            "slug": "shanghai-dragons"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Byung-sun",
+        "hometown": "Namyangju",
+        "id": 8589,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8589/fleta.png",
+        "last_name": "Kim",
+        "name": "Fleta",
+        "nationality": "KR",
+        "role": "Damage",
+        "slug": "fleta"
+    },
+    {
+        "birth_year": 1991,
+        "birthday": "1991-09-05",
+        "current_team": {
+            "acronym": "VAN",
+            "id": 3439,
+            "image_url": "https://cdn.pandascore.co/images/team/image/3439/vancouver_titans_logo_no_text.png",
+            "location": "CA",
+            "modified_at": "2020-01-22T02:57:27Z",
+            "name": "Vancouver Titans",
+            "slug": "vancouver"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Jehong",
+        "hometown": "Incheon",
+        "id": 8588,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8588/ryujehong.png",
+        "last_name": "Ryu",
+        "name": "ryujehong",
+        "nationality": "KR",
+        "role": "Support",
+        "slug": "ryujehong"
+    },
+    {
+        "birth_year": 1994,
+        "birthday": "1994-02-26",
+        "current_team": {
+            "acronym": "SEO",
+            "id": 1554,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1554/seoul_dynasty_logo_no_text.png",
+            "location": "KR",
+            "modified_at": "2020-01-22T02:30:16Z",
+            "name": "Seoul Dynasty",
+            "slug": "seoul-dynasty"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Jin-mo",
+        "hometown": "Ulsan",
+        "id": 8587,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8587/tobi.png",
+        "last_name": "Yang",
+        "name": "tobi",
+        "nationality": "KR",
+        "role": "Support",
+        "slug": "tobi"
+    },
+    {
+        "birth_year": 1991,
+        "birthday": "1991-07-13",
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Daekuk",
+        "hometown": "Seoul",
+        "id": 8586,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8586/4S526X9JY70G1549580254959.png",
+        "last_name": "Kim",
+        "name": "KuKi",
+        "nationality": "KR",
+        "role": "tank",
+        "slug": "kuki"
+    },
+    {
+        "birth_year": 1997,
+        "birthday": "1997-10-29",
+        "current_team": {
+            "acronym": "SEO",
+            "id": 1554,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1554/seoul_dynasty_logo_no_text.png",
+            "location": "KR",
+            "modified_at": "2020-01-22T02:30:16Z",
+            "name": "Seoul Dynasty",
+            "slug": "seoul-dynasty"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Joon-hyuk",
+        "hometown": "Boryung",
+        "id": 8585,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8585/zunba.png",
+        "last_name": "Kim",
+        "name": "zunba",
+        "nationality": "KR",
+        "role": "tank",
+        "slug": "zunba"
+    },
+    {
+        "birth_year": 1998,
+        "birthday": "1998-03-27",
+        "current_team": {
+            "acronym": "BOS",
+            "id": 1547,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1547/519px_boston_uprising_blue_logo_no_text.png",
+            "location": "US",
+            "modified_at": "2020-01-22T02:15:19Z",
+            "name": "Boston Uprising",
+            "slug": "boston-uprising"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Sang-beom",
+        "hometown": "Seoul",
+        "id": 8584,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8584/EXGQNIWZDGSD1512770128109.png",
+        "last_name": "Byeon",
+        "name": "Munchkin",
+        "nationality": "KR",
+        "role": "Damage",
+        "slug": "munchkin"
+    },
+    {
+        "birth_year": 1999,
+        "birthday": "1999-11-11",
+        "current_team": {
+            "acronym": "Gen.G",
+            "id": 13763,
+            "image_url": "https://cdn.pandascore.co/images/team/image/13763/gen-g-esports.png",
+            "location": "KR",
+            "modified_at": "2019-10-10T08:26:23Z",
+            "name": "Gen.G esports",
+            "slug": "gen-g-esports"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Seok-Woo",
+        "hometown": "Bucheon, South Korea",
+        "id": 8583,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8583/wekeed.png",
+        "last_name": "Choi",
+        "name": "Wekeed",
+        "nationality": "KR",
+        "role": "DPS",
+        "slug": "wekeed"
+    },
+    {
+        "birth_year": 2000,
+        "birthday": "2000-01-13",
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Gi-do",
+        "hometown": "Incheon",
+        "id": 8582,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8582/Z6J0A4BPFCZH1549576973928.png",
+        "last_name": "Moon ",
+        "name": "Gido",
+        "nationality": "KR",
+        "role": "support",
+        "slug": "gido"
+    },
+    {
+        "birth_year": 1996,
+        "birthday": "1996-09-15",
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Jae-mo",
+        "hometown": "Busan",
+        "id": 8581,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8581/VOMRLLOOGCCR1549664655208.png",
+        "last_name": "Koo",
+        "name": "xepheR",
+        "nationality": "KR",
+        "role": "tank",
+        "slug": "xepher"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Jin-Hyuk",
+        "hometown": "DaeJeon",
+        "id": 8580,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8580/LTXC1UP8RPNW1512770128083.png",
+        "last_name": "Gong ",
+        "name": "Miro",
+        "nationality": null,
+        "role": "Tank",
+        "slug": "miro"
+    },
+    {
+        "birth_year": 1998,
+        "birthday": "1998-05-15",
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Jun hyeok",
+        "hometown": "Suwon",
+        "id": 8579,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8579/5UTQTAH91AP81523496424343.png",
+        "last_name": "Chae",
+        "name": "Bunny",
+        "nationality": "KR",
+        "role": "offense",
+        "slug": "bunny"
+    },
+    {
+        "birth_year": 1999,
+        "birthday": "1999-07-30",
+        "current_team": {
+            "acronym": "SHD",
+            "id": 1553,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1553/shanghai_dragons_logo_no_text.png",
+            "location": "CN",
+            "modified_at": "2020-01-22T02:27:27Z",
+            "name": "Shanghai Dragons",
+            "slug": "shanghai-dragons"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Weida",
+        "hometown": "Liaoning",
+        "id": 8578,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8578/diya.png",
+        "last_name": "Lu",
+        "name": "Diya",
+        "nationality": "CN",
+        "role": "Damage",
+        "slug": "diya"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Wenhao",
+        "hometown": "Henan",
+        "id": 8577,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8577/XBXZYVNUO09L1512685931234.png",
+        "last_name": "Jing",
+        "name": "Roshan",
+        "nationality": null,
+        "role": "Tank",
+        "slug": "roshan"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Dongjian",
+        "hometown": "Guangdong",
+        "id": 8576,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8576/MFLQTBNY2LX11513192329151.png",
+        "last_name": "Wu",
+        "name": "MG",
+        "nationality": null,
+        "role": "Flex",
+        "slug": "mg"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Chao",
+        "hometown": "Zhejiang",
+        "id": 8575,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8575/owl_undead.png",
+        "last_name": "Fang",
+        "name": "Undead",
+        "nationality": null,
+        "role": "DPS",
+        "slug": "undead"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Yage",
+        "hometown": "Hunan",
+        "id": 8574,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8574/YUEOR3ORCY5E1512685930834.png",
+        "last_name": "Cheng",
+        "name": "Altering",
+        "nationality": null,
+        "role": "Support",
+        "slug": "altering"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Zhaoyu",
+        "hometown": "Hunan",
+        "id": 8573,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8573/ASXO7K4P2DBD1512685931016.png",
+        "last_name": "Chen",
+        "name": "SIO",
+        "nationality": null,
+        "role": "Support",
+        "slug": "fiveking"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Junjie",
+        "hometown": "Hunan",
+        "id": 8572,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8572/PBWFKWMQ5A861512685931434.png",
+        "last_name": "Liu",
+        "name": "Xushu",
+        "nationality": null,
+        "role": "Flex",
+        "slug": "xushu"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Peixuan",
+        "hometown": "Henan",
+        "id": 8571,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8571/owl_freefeel.png",
+        "last_name": "Xu",
+        "name": "Freefeel",
+        "nationality": null,
+        "role": "Support",
+        "slug": "freefeel"
+    },
+    {
+        "birth_year": 1995,
+        "birthday": "1995-07-04",
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Aleksi",
+        "hometown": "Turku, Finland",
+        "id": 8570,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8570/7NQZMZ9MX2FU1512685744843.png",
+        "last_name": "Kuntsi",
+        "name": "Zuppeh",
+        "nationality": "FI",
+        "role": "Support",
+        "slug": "zuppeh"
+    },
+    {
+        "birth_year": 1994,
+        "birthday": "1994-07-24",
+        "current_team": {
+            "acronym": "REV",
+            "id": 126078,
+            "image_url": "https://cdn.pandascore.co/images/team/image/126078/revival.png",
+            "location": "US",
+            "modified_at": "2020-02-10T01:06:05Z",
+            "name": "Revival",
+            "slug": "revival"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Kevin",
+        "hometown": "V\u00e4ster\u00e5s",
+        "id": 8569,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8569/QTS9SARJEWLL1531244894567.png",
+        "last_name": "Lindstr\u00f6m",
+        "name": "TviQ",
+        "nationality": "SE",
+        "role": "offense",
+        "slug": "tviq"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Johan",
+        "hometown": "Fagersta",
+        "id": 8568,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8568/RPHC99GZV5YT1512685744459.png",
+        "last_name": "Klingestedt",
+        "name": "CWoosH",
+        "nationality": null,
+        "role": "Tank",
+        "slug": "cwoosh"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Sebastian",
+        "hometown": "Lysekil",
+        "id": 8567,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8567/0RCI51ST0GU01512685744788.png",
+        "last_name": "Olsson",
+        "name": "Zebbosai",
+        "nationality": null,
+        "role": "Support",
+        "slug": "zebbosai"
+    },
+    {
+        "birth_year": 1997,
+        "birthday": "1997-06-11",
+        "current_team": {
+            "acronym": "TOR",
+            "id": 3434,
+            "image_url": "https://cdn.pandascore.co/images/team/image/3434/toronto_defiant_logo_no_text.png",
+            "location": "CA",
+            "modified_at": "2020-01-22T02:45:40Z",
+            "name": "Toronto Defiant",
+            "slug": "toronto-defiant"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Andreas",
+        "hometown": "Duffel",
+        "id": 8566,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8566/NM3N1A0TI6BS1512685744563.png",
+        "last_name": "Berghmans",
+        "name": "Logix",
+        "nationality": "BE",
+        "role": "Damage",
+        "slug": "logix"
+    },
+    {
+        "birth_year": 1997,
+        "birthday": "1997-06-01",
+        "current_team": {
+            "acronym": "REV",
+            "id": 126078,
+            "image_url": "https://cdn.pandascore.co/images/team/image/126078/revival.png",
+            "location": "US",
+            "modified_at": "2020-02-10T01:06:05Z",
+            "name": "Revival",
+            "slug": "revival"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Tim",
+        "hometown": "Karlstad, Sweden",
+        "id": 8565,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8565/YZNUNFMFABFG1512685744491.png",
+        "last_name": "Bylund",
+        "name": "Manneten",
+        "nationality": "SE",
+        "role": "Flex",
+        "slug": "manneten"
+    },
+    {
+        "birth_year": 1996,
+        "birthday": "1996-11-03",
+        "current_team": {
+            "acronym": "GLA",
+            "id": 1551,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1551/603px_los_angeles_gladiators_logo_no_text.png",
+            "location": "US",
+            "modified_at": "2020-01-22T02:20:39Z",
+            "name": "Los Angeles Gladiators",
+            "slug": "los-angeles-gladiators"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Benjamin",
+        "hometown": "Kokkola, Finland",
+        "id": 8564,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8564/biggoose.png",
+        "last_name": "Isohanni",
+        "name": "BigG00se",
+        "nationality": "FI",
+        "role": "Support",
+        "slug": "biggoose"
+    },
+    {
+        "birth_year": 1998,
+        "birthday": "1998-03-08",
+        "current_team": {
+            "acronym": "HOU",
+            "id": 1546,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1546/houston_outlaws_logo_no_text.png",
+            "location": "US",
+            "modified_at": "2020-01-22T02:12:45Z",
+            "name": "Houston Outlaws",
+            "slug": "houston-outlaws"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Jo\u00e3o Pedro",
+        "hometown": "Monte Claros",
+        "id": 8563,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8563/hydration.png",
+        "last_name": "Goes Telles",
+        "name": "Hydration",
+        "nationality": "US",
+        "role": "Damage",
+        "slug": "hydration"
+    },
+    {
+        "birth_year": 1998,
+        "birthday": "1998-05-12",
+        "current_team": {
+            "acronym": "GLA",
+            "id": 1551,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1551/603px_los_angeles_gladiators_logo_no_text.png",
+            "location": "US",
+            "modified_at": "2020-01-22T02:20:39Z",
+            "name": "Los Angeles Gladiators",
+            "slug": "los-angeles-gladiators"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Jonas",
+        "hometown": "Jyv\u00e4skyl\u00e4, Finland",
+        "id": 8562,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8562/shaz.png",
+        "last_name": "Suovaara",
+        "name": "Shaz",
+        "nationality": "FI",
+        "role": "Support",
+        "slug": "shaz"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Luis",
+        "hometown": "Puerto Rico, USA",
+        "id": 8560,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8560/KA2YMLHN9WL61512769977429.png",
+        "last_name": "Galarza Figueroa",
+        "name": "iRemiix",
+        "nationality": "PR",
+        "role": "Tank",
+        "slug": "iremiix"
+    },
+    {
+        "birth_year": 1994,
+        "birthday": "1994-11-04",
+        "current_team": {
+            "acronym": "TOR",
+            "id": 3434,
+            "image_url": "https://cdn.pandascore.co/images/team/image/3434/toronto_defiant_logo_no_text.png",
+            "location": "CA",
+            "modified_at": "2020-01-22T02:45:40Z",
+            "name": "Toronto Defiant",
+            "slug": "toronto-defiant"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Lane",
+        "hometown": "Calgary, Canada",
+        "id": 8559,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8559/surefour.png",
+        "last_name": "Roberts",
+        "name": "Surefour",
+        "nationality": "CA",
+        "role": "Damage",
+        "slug": "surefour"
+    },
+    {
+        "birth_year": 1995,
+        "birthday": "1995-09-12",
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Jun-Sung",
+        "hometown": "Ulsan",
+        "id": 8558,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8558/IA6PNYMPSM341549576799700.png",
+        "last_name": "Choi",
+        "name": "Asher",
+        "nationality": "KR",
+        "role": "offense",
+        "slug": "asher"
+    },
+    {
+        "birth_year": 1994,
+        "birthday": "1994-02-04",
+        "current_team": {
+            "acronym": "PAR",
+            "id": 3433,
+            "image_url": "https://cdn.pandascore.co/images/team/image/3433/519px_paris_eternal_logo_no_text.png",
+            "location": "FR",
+            "modified_at": "2020-01-22T02:45:05Z",
+            "name": "Paris Eternal",
+            "slug": "paris"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Terence",
+        "hometown": "Amiens",
+        "id": 8557,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8557/NN0NEGNDPAR81549652245653.png",
+        "last_name": "Tarlier",
+        "name": "SoOn",
+        "nationality": "FR",
+        "role": "Damage",
+        "slug": "soon"
+    },
+    {
+        "birth_year": 1999,
+        "birthday": "1999-12-27",
+        "current_team": {
+            "acronym": "TOR",
+            "id": 3434,
+            "image_url": "https://cdn.pandascore.co/images/team/image/3434/toronto_defiant_logo_no_text.png",
+            "location": "CA",
+            "modified_at": "2020-01-22T02:45:40Z",
+            "name": "Toronto Defiant",
+            "slug": "toronto-defiant"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Brady",
+        "hometown": "Lethbridge",
+        "id": 8556,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8556/47PKEMP7FWAQ1512776700755.png",
+        "last_name": "Girardi",
+        "name": "Agilities",
+        "nationality": "CA",
+        "role": "Damage",
+        "slug": "agilities"
+    },
+    {
+        "birth_year": 1995,
+        "birthday": "1995-12-24",
+        "current_team": {
+            "acronym": "DAL",
+            "id": 1544,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1544/dallas_fuel_logo_no_text.png",
+            "location": "US",
+            "modified_at": "2020-02-04T16:23:33Z",
+            "name": "Dallas Fuel",
+            "slug": "dallas-fuel"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Benjamin",
+        "hometown": "Nevers",
+        "id": 8555,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8555/8P5PDHGFRTOP1522979540099.png",
+        "last_name": "Chevasson",
+        "name": "uNKOE",
+        "nationality": "FR",
+        "role": "Support",
+        "slug": "unkoe"
+    },
+    {
+        "birth_year": 2000,
+        "birthday": "2000-03-28",
+        "current_team": {
+            "acronym": "GLA",
+            "id": 1551,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1551/603px_los_angeles_gladiators_logo_no_text.png",
+            "location": "US",
+            "modified_at": "2020-01-22T02:20:39Z",
+            "name": "Los Angeles Gladiators",
+            "slug": "los-angeles-gladiators"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Indy",
+        "hometown": "New York City, NY",
+        "id": 8553,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8553/BP0XDXDMWZ421512776701354.png",
+        "last_name": "Halpern",
+        "name": "SPACE",
+        "nationality": "US",
+        "role": "Tank",
+        "slug": "space-indy-halpern"
+    },
+    {
+        "birth_year": 1997,
+        "birthday": "1997-04-30",
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Kang-jae",
+        "hometown": "Seoul",
+        "id": 8552,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8552/RTY8KTXBA5ND1549576799705.png",
+        "last_name": "Lee",
+        "name": "envy",
+        "nationality": "KR",
+        "role": "tank",
+        "slug": "envy-kang-jae-lee"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Stefano",
+        "hometown": "Toronto",
+        "id": 8551,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8551/GB1BRHQZ4CLL1512776701508.png",
+        "last_name": "Disalvo",
+        "name": "Verbo",
+        "nationality": "CA",
+        "role": "Support",
+        "slug": "verbo"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "FLA",
+            "id": 1552,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1552/576px_florida_mayhem_logo_2020_no_text.png",
+            "location": "US",
+            "modified_at": "2020-01-22T02:22:00Z",
+            "name": "Florida Mayhem",
+            "slug": "florida-mayhem"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Pan-seung",
+        "hometown": "Seoul",
+        "id": 8550,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8550/Fatemayhem.png",
+        "last_name": "Koo",
+        "name": "Fate",
+        "nationality": "KR",
+        "role": "Tank",
+        "slug": "fate-pan-seung-koo"
+    },
+    {
+        "birth_year": 1998,
+        "birthday": "1998-01-08",
+        "current_team": {
+            "acronym": "TOR",
+            "id": 3434,
+            "image_url": "https://cdn.pandascore.co/images/team/image/3434/toronto_defiant_logo_no_text.png",
+            "location": "CA",
+            "modified_at": "2020-01-22T02:45:40Z",
+            "name": "Toronto Defiant",
+            "slug": "toronto-defiant"
+        },
+        "current_videogame": {
+            "id": 14,
+            "name": "Overwatch",
+            "slug": "ow"
+        },
+        "first_name": "Young-seo",
+        "hometown": "Seoul",
+        "id": 8549,
+        "image_url": "https://cdn.pandascore.co/images/player/image/8549/6QOV26CVECXE1512776701055.png",
+        "last_name": "Park",
+        "name": "KariV",
+        "nationality": "KR",
+        "role": "Support",
+        "slug": "kariv"
+    }
+]
