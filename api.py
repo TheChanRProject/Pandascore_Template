@@ -34,7 +34,7 @@ print(f"You have {1000 - num_pages} API calls remaining.")
 
 # Creating JSON Files for Each Page You Query Inside the Folder
 for i in range(num_pages):
-    system(f"touch {json_path}/league_match_{i+1}.json")
+    system(f"touch {json_path}/{folder_name}_{i+1}.json")
 
 
 # Getting a List of JSON Files
