@@ -1,0 +1,1926 @@
+[
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2367,
+        "image_url": null,
+        "last_name": null,
+        "name": "Everkey",
+        "nationality": null,
+        "role": "jun",
+        "slug": "everkey"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2366,
+        "image_url": null,
+        "last_name": null,
+        "name": "FER",
+        "nationality": null,
+        "role": "jun",
+        "slug": "fer"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2365,
+        "image_url": null,
+        "last_name": null,
+        "name": "PCS Element",
+        "nationality": null,
+        "role": "jun",
+        "slug": "pcs-element"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2364,
+        "image_url": null,
+        "last_name": null,
+        "name": "MSW Tenshenya",
+        "nationality": null,
+        "role": "jun",
+        "slug": "msw-tenshenya"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2363,
+        "image_url": null,
+        "last_name": null,
+        "name": "PCS Voleublad",
+        "nationality": null,
+        "role": "jun",
+        "slug": "pcs-voleublad"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2362,
+        "image_url": null,
+        "last_name": null,
+        "name": "PCS Grimka",
+        "nationality": null,
+        "role": "jun",
+        "slug": "pcs-grimka"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2361,
+        "image_url": null,
+        "last_name": null,
+        "name": "PCS Narkange",
+        "nationality": null,
+        "role": "jun",
+        "slug": "pcs-narkange"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2360,
+        "image_url": null,
+        "last_name": null,
+        "name": "Ozewerth",
+        "nationality": null,
+        "role": "jun",
+        "slug": "ozewerth"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2359,
+        "image_url": null,
+        "last_name": null,
+        "name": "El NoNo",
+        "nationality": null,
+        "role": "jun",
+        "slug": "el-nono"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2358,
+        "image_url": null,
+        "last_name": null,
+        "name": "Veget",
+        "nationality": null,
+        "role": "jun",
+        "slug": "veget"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2357,
+        "image_url": null,
+        "last_name": null,
+        "name": "Glareole",
+        "nationality": null,
+        "role": "jun",
+        "slug": "glareole"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2356,
+        "image_url": null,
+        "last_name": null,
+        "name": "Glandalf",
+        "nationality": null,
+        "role": "jun",
+        "slug": "glandalf"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2355,
+        "image_url": null,
+        "last_name": null,
+        "name": "PHG Style Points",
+        "nationality": null,
+        "role": "jun",
+        "slug": "phg-style-points"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2354,
+        "image_url": null,
+        "last_name": null,
+        "name": "Daenna",
+        "nationality": null,
+        "role": "jun",
+        "slug": "daenna"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2353,
+        "image_url": null,
+        "last_name": null,
+        "name": "PHG Francky",
+        "nationality": null,
+        "role": "jun",
+        "slug": "phg-francky"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2352,
+        "image_url": null,
+        "last_name": null,
+        "name": "NS Elleu",
+        "nationality": null,
+        "role": "jun",
+        "slug": "ns-elleu"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2351,
+        "image_url": null,
+        "last_name": null,
+        "name": "PHG ExYlate",
+        "nationality": null,
+        "role": "jun",
+        "slug": "phg-exylate"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2350,
+        "image_url": null,
+        "last_name": null,
+        "name": "Wartrasher",
+        "nationality": null,
+        "role": "jun",
+        "slug": "wartrasher"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2349,
+        "image_url": null,
+        "last_name": null,
+        "name": "Thorcal",
+        "nationality": null,
+        "role": "jun",
+        "slug": "thorcal"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2348,
+        "image_url": null,
+        "last_name": null,
+        "name": "Broket",
+        "nationality": null,
+        "role": "jun",
+        "slug": "broket"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2347,
+        "image_url": null,
+        "last_name": null,
+        "name": "Ecorp Arkyios",
+        "nationality": null,
+        "role": "jun",
+        "slug": "ecorp-arkyios"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2346,
+        "image_url": null,
+        "last_name": null,
+        "name": "Asmarok",
+        "nationality": null,
+        "role": "jun",
+        "slug": "asmarok"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2342,
+        "image_url": null,
+        "last_name": null,
+        "name": "D\u00e9kal\u00e9",
+        "nationality": null,
+        "role": "jun",
+        "slug": "dekale"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2341,
+        "image_url": null,
+        "last_name": null,
+        "name": "Fangroth",
+        "nationality": null,
+        "role": "jun",
+        "slug": "fangroth"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2340,
+        "image_url": null,
+        "last_name": null,
+        "name": "Krique",
+        "nationality": null,
+        "role": "jun",
+        "slug": "krique"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2339,
+        "image_url": null,
+        "last_name": null,
+        "name": "EchO",
+        "nationality": null,
+        "role": "jun",
+        "slug": "echo"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2338,
+        "image_url": null,
+        "last_name": null,
+        "name": "Darkrim",
+        "nationality": null,
+        "role": "jun",
+        "slug": "darkrim"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2337,
+        "image_url": null,
+        "last_name": null,
+        "name": "Canneton",
+        "nationality": null,
+        "role": "jun",
+        "slug": "canneton"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2336,
+        "image_url": null,
+        "last_name": null,
+        "name": "Eistidog",
+        "nationality": null,
+        "role": "jun",
+        "slug": "eistidog"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2335,
+        "image_url": null,
+        "last_name": null,
+        "name": "Gogoparty",
+        "nationality": null,
+        "role": "jun",
+        "slug": "gogoparty"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2334,
+        "image_url": null,
+        "last_name": null,
+        "name": "axellink",
+        "nationality": null,
+        "role": "jun",
+        "slug": "axellink"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2333,
+        "image_url": null,
+        "last_name": null,
+        "name": "fair3n",
+        "nationality": null,
+        "role": "jun",
+        "slug": "fair3n"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2332,
+        "image_url": null,
+        "last_name": null,
+        "name": "CR Ajuna",
+        "nationality": null,
+        "role": "jun",
+        "slug": "cr-ajuna"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2331,
+        "image_url": null,
+        "last_name": null,
+        "name": "Blindgrab Hippie",
+        "nationality": null,
+        "role": "jun",
+        "slug": "blindgrab-hippie"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2330,
+        "image_url": null,
+        "last_name": null,
+        "name": "CR Cocconuts",
+        "nationality": null,
+        "role": "jun",
+        "slug": "cr-cocconuts"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2329,
+        "image_url": null,
+        "last_name": null,
+        "name": "CR Gonomik",
+        "nationality": null,
+        "role": "jun",
+        "slug": "cr-gonomik"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2328,
+        "image_url": null,
+        "last_name": null,
+        "name": "CR Bloodrises",
+        "nationality": null,
+        "role": "jun",
+        "slug": "cr-bloodrises"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2327,
+        "image_url": null,
+        "last_name": null,
+        "name": "nnaoyy",
+        "nationality": null,
+        "role": "jun",
+        "slug": "nnaoyy"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2326,
+        "image_url": null,
+        "last_name": null,
+        "name": "Roddaks",
+        "nationality": null,
+        "role": "jun",
+        "slug": "roddaks"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2325,
+        "image_url": null,
+        "last_name": null,
+        "name": "labuche",
+        "nationality": null,
+        "role": "jun",
+        "slug": "labuche"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2324,
+        "image_url": null,
+        "last_name": null,
+        "name": "Twilo",
+        "nationality": null,
+        "role": "jun",
+        "slug": "twilo"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2323,
+        "image_url": null,
+        "last_name": null,
+        "name": "EarthCrocs",
+        "nationality": null,
+        "role": "jun",
+        "slug": "earthcrocs"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "TR",
+            "id": 2907,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2018-10-18T15:37:20Z",
+            "name": "Team Ragnarok",
+            "slug": "team-ragnarok"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2322,
+        "image_url": null,
+        "last_name": null,
+        "name": "Ardax",
+        "nationality": null,
+        "role": "jun",
+        "slug": "ardax"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2321,
+        "image_url": null,
+        "last_name": null,
+        "name": "Bemog",
+        "nationality": null,
+        "role": "jun",
+        "slug": "bemog"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2320,
+        "image_url": null,
+        "last_name": null,
+        "name": "zAaRON",
+        "nationality": null,
+        "role": "jun",
+        "slug": "zaaron"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2319,
+        "image_url": null,
+        "last_name": null,
+        "name": "Heste",
+        "nationality": null,
+        "role": "jun",
+        "slug": "heste"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2318,
+        "image_url": null,
+        "last_name": null,
+        "name": "Wylfer",
+        "nationality": null,
+        "role": "jun",
+        "slug": "wylfer"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2317,
+        "image_url": null,
+        "last_name": null,
+        "name": "Kawet",
+        "nationality": null,
+        "role": "jun",
+        "slug": "kawet"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2316,
+        "image_url": null,
+        "last_name": null,
+        "name": "Kanbatsu",
+        "nationality": null,
+        "role": "jun",
+        "slug": "kanbatsu"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2315,
+        "image_url": null,
+        "last_name": null,
+        "name": "YA MOY",
+        "nationality": null,
+        "role": "jun",
+        "slug": "ya-moy"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2314,
+        "image_url": null,
+        "last_name": null,
+        "name": "Happire",
+        "nationality": null,
+        "role": "jun",
+        "slug": "happire"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2313,
+        "image_url": null,
+        "last_name": null,
+        "name": "Gwen",
+        "nationality": null,
+        "role": "adc",
+        "slug": "gwen"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2312,
+        "image_url": null,
+        "last_name": null,
+        "name": "AEdreams",
+        "nationality": null,
+        "role": "adc",
+        "slug": "aedreams"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2311,
+        "image_url": null,
+        "last_name": null,
+        "name": "LeGrosZogZog",
+        "nationality": null,
+        "role": "adc",
+        "slug": "legroszogzog"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2310,
+        "image_url": null,
+        "last_name": null,
+        "name": "KiwiDonkey",
+        "nationality": null,
+        "role": "adc",
+        "slug": "kiwidonkey"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2308,
+        "image_url": null,
+        "last_name": null,
+        "name": "LuckySplit",
+        "nationality": null,
+        "role": "adc",
+        "slug": "luckysplit"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2307,
+        "image_url": null,
+        "last_name": null,
+        "name": "MoOn Amasa",
+        "nationality": null,
+        "role": "adc",
+        "slug": "moon-amasa"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2306,
+        "image_url": null,
+        "last_name": null,
+        "name": "vortex\u00e9l\u00e9ment",
+        "nationality": null,
+        "role": "adc",
+        "slug": "vortexelement"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2305,
+        "image_url": null,
+        "last_name": null,
+        "name": "Gardien de z\u00f8\u00f8",
+        "nationality": null,
+        "role": "adc",
+        "slug": "gardien-de-zoo"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2304,
+        "image_url": null,
+        "last_name": null,
+        "name": "FRraziel",
+        "nationality": null,
+        "role": "adc",
+        "slug": "frraziel"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2303,
+        "image_url": null,
+        "last_name": null,
+        "name": "Tequila He\u00efneken",
+        "nationality": null,
+        "role": "adc",
+        "slug": "tequila-heineken"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2302,
+        "image_url": null,
+        "last_name": null,
+        "name": "Linkkey",
+        "nationality": null,
+        "role": "adc",
+        "slug": "linkkey-91fdbeed-bacb-4256-a1b2-01ac7dd7ed26"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2301,
+        "image_url": null,
+        "last_name": null,
+        "name": "TA",
+        "nationality": null,
+        "role": "adc",
+        "slug": "ta"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2300,
+        "image_url": null,
+        "last_name": null,
+        "name": "Garguentua",
+        "nationality": null,
+        "role": "adc",
+        "slug": "garguentua"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2299,
+        "image_url": null,
+        "last_name": null,
+        "name": "KIWI Akri",
+        "nationality": null,
+        "role": "adc",
+        "slug": "kiwi-akri"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2298,
+        "image_url": null,
+        "last_name": null,
+        "name": "DATTE Hirval",
+        "nationality": null,
+        "role": "adc",
+        "slug": "datte-hirval"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2297,
+        "image_url": null,
+        "last_name": null,
+        "name": "Lindar",
+        "nationality": null,
+        "role": "adc",
+        "slug": "lindar"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2296,
+        "image_url": null,
+        "last_name": null,
+        "name": "Hungry Davy",
+        "nationality": null,
+        "role": "adc",
+        "slug": "hungry-davy"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2295,
+        "image_url": null,
+        "last_name": null,
+        "name": "LASAN Nepth",
+        "nationality": null,
+        "role": "adc",
+        "slug": "lasan-nepth"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2294,
+        "image_url": null,
+        "last_name": null,
+        "name": "Tolmux",
+        "nationality": null,
+        "role": "adc",
+        "slug": "tolmux"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2293,
+        "image_url": null,
+        "last_name": null,
+        "name": "glubil",
+        "nationality": null,
+        "role": "adc",
+        "slug": "glubil"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2292,
+        "image_url": null,
+        "last_name": null,
+        "name": "slurpol",
+        "nationality": null,
+        "role": "adc",
+        "slug": "slurpol"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2291,
+        "image_url": null,
+        "last_name": null,
+        "name": "Maephistoss",
+        "nationality": null,
+        "role": "adc",
+        "slug": "maephistoss"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2290,
+        "image_url": null,
+        "last_name": null,
+        "name": "fistipanda",
+        "nationality": null,
+        "role": "adc",
+        "slug": "fistipanda"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2289,
+        "image_url": null,
+        "last_name": null,
+        "name": "PG Master Soon",
+        "nationality": null,
+        "role": "jun",
+        "slug": "pg-master-soon"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2288,
+        "image_url": null,
+        "last_name": null,
+        "name": "Genosect",
+        "nationality": null,
+        "role": "adc",
+        "slug": "genosect"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2287,
+        "image_url": null,
+        "last_name": null,
+        "name": "Arth\u00e9",
+        "nationality": null,
+        "role": "mid",
+        "slug": "arthe"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2286,
+        "image_url": null,
+        "last_name": null,
+        "name": "BigN\u00e9o",
+        "nationality": null,
+        "role": "mid",
+        "slug": "bigneo"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2285,
+        "image_url": null,
+        "last_name": null,
+        "name": "Akadei",
+        "nationality": null,
+        "role": "mid",
+        "slug": "akadei"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2284,
+        "image_url": null,
+        "last_name": null,
+        "name": "iReadie",
+        "nationality": null,
+        "role": "mid",
+        "slug": "ireadie"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2283,
+        "image_url": null,
+        "last_name": null,
+        "name": "P\u00e4sse Partrous",
+        "nationality": null,
+        "role": "mid",
+        "slug": "passe-partrous"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2282,
+        "image_url": null,
+        "last_name": null,
+        "name": "Kissmyhero",
+        "nationality": null,
+        "role": "mid",
+        "slug": "kissmyhero"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2281,
+        "image_url": null,
+        "last_name": null,
+        "name": "WaW SamySalty",
+        "nationality": null,
+        "role": "mid",
+        "slug": "waw-samysalty"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2280,
+        "image_url": null,
+        "last_name": null,
+        "name": "Fracalouw",
+        "nationality": null,
+        "role": "mid",
+        "slug": "fracalouw"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2279,
+        "image_url": null,
+        "last_name": null,
+        "name": "Rabie doG",
+        "nationality": null,
+        "role": "mid",
+        "slug": "rabie-dog"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2278,
+        "image_url": null,
+        "last_name": null,
+        "name": "G2 defts\u00fa",
+        "nationality": null,
+        "role": "mid",
+        "slug": "g2-deftsu"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2277,
+        "image_url": null,
+        "last_name": null,
+        "name": "CJ Dydz",
+        "nationality": null,
+        "role": "mid",
+        "slug": "cj-dydz"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2276,
+        "image_url": null,
+        "last_name": null,
+        "name": "HRZ iDeva",
+        "nationality": null,
+        "role": "jun",
+        "slug": "hrz-ideva"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2275,
+        "image_url": null,
+        "last_name": null,
+        "name": "Hydrale",
+        "nationality": null,
+        "role": "mid",
+        "slug": "hydrale"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2274,
+        "image_url": null,
+        "last_name": null,
+        "name": "Phoenix",
+        "nationality": null,
+        "role": "mid",
+        "slug": "phoenix"
+    },
+    {
+        "birth_year": 2001,
+        "birthday": "2001-05-01",
+        "current_team": {
+            "acronym": "GO",
+            "id": 339,
+            "image_url": "https://cdn.pandascore.co/images/team/image/339/220px_gamers_originlogo_profile.png",
+            "location": "FR",
+            "modified_at": "2020-01-15T15:44:54Z",
+            "name": "Gamers Origin",
+            "slug": "gamers-origin"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Loic",
+        "hometown": null,
+        "id": 2273,
+        "image_url": "https://cdn.pandascore.co/images/player/image/2273/220px_gog_toucouille_2020_split_1.png",
+        "last_name": "Dubois",
+        "name": "Toucouille",
+        "nationality": "FR",
+        "role": "mid",
+        "slug": "toucouille"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2272,
+        "image_url": null,
+        "last_name": null,
+        "name": "Skythrew",
+        "nationality": null,
+        "role": "jun",
+        "slug": "skythrew"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2271,
+        "image_url": null,
+        "last_name": null,
+        "name": "Ushuala",
+        "nationality": null,
+        "role": "jun",
+        "slug": "ushuala"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2269,
+        "image_url": null,
+        "last_name": null,
+        "name": "Turaxy",
+        "nationality": null,
+        "role": "adc",
+        "slug": "turaxy"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2268,
+        "image_url": null,
+        "last_name": null,
+        "name": "Livius",
+        "nationality": null,
+        "role": "adc",
+        "slug": "livius"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2266,
+        "image_url": null,
+        "last_name": null,
+        "name": "Dramop",
+        "nationality": null,
+        "role": "adc",
+        "slug": "dramop"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 2265,
+        "image_url": null,
+        "last_name": null,
+        "name": "Farrhell",
+        "nationality": null,
+        "role": "adc",
+        "slug": "farrhell"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "",
+        "hometown": "",
+        "id": 2222,
+        "image_url": null,
+        "last_name": "",
+        "name": "Tij\u00e9",
+        "nationality": null,
+        "role": "jun",
+        "slug": "tije"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ASUS",
+            "id": 577,
+            "image_url": "https://cdn.pandascore.co/images/team/image/577/asus-rog-13nqbg7a.png",
+            "location": "ES",
+            "modified_at": "2018-10-18T17:56:23Z",
+            "name": "ASUS ROG Army",
+            "slug": "asus-rog"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Philippe",
+        "hometown": null,
+        "id": 2221,
+        "image_url": "https://cdn.pandascore.co/images/player/image/2221/broua-idtkcyuv.png",
+        "last_name": "Castellano",
+        "name": "Broua",
+        "nationality": null,
+        "role": "sup",
+        "slug": "broua"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Joffrey",
+        "hometown": "",
+        "id": 2220,
+        "image_url": null,
+        "last_name": "Livet",
+        "name": "Dreamsu",
+        "nationality": null,
+        "role": "jun",
+        "slug": "dreamsu"
+    }
+]

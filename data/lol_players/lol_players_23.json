@@ -1,0 +1,2518 @@
+[
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "RBG",
+            "id": 2872,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2019-03-09T10:37:18Z",
+            "name": "Rock Bottom Gorillas",
+            "slug": "rock-bottom-gorillas"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Angelo Joshua",
+        "hometown": "United States",
+        "id": 15257,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15257/220px-Ggu_iamanjo_lcs.png",
+        "last_name": "Cortez",
+        "name": "Anjo",
+        "nationality": null,
+        "role": "sup",
+        "slug": "rbg-anjo"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "RBG",
+            "id": 2872,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2019-03-09T10:37:18Z",
+            "name": "Rock Bottom Gorillas",
+            "slug": "rock-bottom-gorillas"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15256,
+        "image_url": null,
+        "last_name": null,
+        "name": "RBG cre4tive",
+        "nationality": null,
+        "role": "adc",
+        "slug": "rbg-cre4tive"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15253,
+        "image_url": null,
+        "last_name": null,
+        "name": "TLA Ennui",
+        "nationality": null,
+        "role": "mid",
+        "slug": "tla-ennui"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Glenn",
+        "hometown": "Netherlands",
+        "id": 15252,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15252/220px-OG_Hybrid_2016_Summer_2.png",
+        "last_name": "Doornenbal",
+        "name": "Hybrid",
+        "nationality": null,
+        "role": "sup",
+        "slug": "hybrid-glenn-doornenbal"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "PGG",
+            "id": 126721,
+            "image_url": "https://cdn.pandascore.co/images/team/image/126721/220px_pentanet.g_glogo_square.png",
+            "location": "AU",
+            "modified_at": "2020-01-16T13:58:30Z",
+            "name": "Pentanet.GG",
+            "slug": "pentanet-gg"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Brandon",
+        "hometown": null,
+        "id": 15251,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15251/220px_pgg_bio_panther_2020_split_1.png",
+        "last_name": "Alexander",
+        "name": "BioPanther",
+        "nationality": "AU",
+        "role": "top",
+        "slug": "biopanther"
+    },
+    {
+        "birth_year": 2001,
+        "birthday": "2001-01-08",
+        "current_team": {
+            "acronym": "OZ",
+            "id": 126802,
+            "image_url": "https://cdn.pandascore.co/images/team/image/126802/220px_oz_gaminglogo_square.png",
+            "location": "KR",
+            "modified_at": "2020-01-15T15:08:11Z",
+            "name": "OZ Gaming",
+            "slug": "oz-gaming"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Cho",
+        "hometown": "South Korea",
+        "id": 15250,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15250/220px-MVP_Motive_2019_Split_2.jpg",
+        "last_name": "Se-hee",
+        "name": "Motive",
+        "nationality": "KR",
+        "role": "sup",
+        "slug": "motive"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Omar ",
+        "hometown": "Sonora, M\u00e9xico",
+        "id": 15249,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15249/ottovag-cdfy444t.png",
+        "last_name": "Gavotto",
+        "name": "ottovaG",
+        "nationality": null,
+        "role": "adc",
+        "slug": "ottovag"
+    },
+    {
+        "birth_year": 1997,
+        "birthday": "1997-06-20",
+        "current_team": {
+            "acronym": "FUR",
+            "id": 126688,
+            "image_url": "https://cdn.pandascore.co/images/team/image/126688/220px_furia_uppercutlogo_square.png",
+            "location": "BR",
+            "modified_at": "2019-12-28T15:38:28Z",
+            "name": "FURIA Uppercut",
+            "slug": "furia-uppercut"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Yan",
+        "hometown": "S\u00e3o Paulo - SP",
+        "id": 15246,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15246/220px_fur_damage_2020_split_1.png",
+        "last_name": "Sales",
+        "name": "Damage",
+        "nationality": "BR",
+        "role": "sup",
+        "slug": "damage"
+    },
+    {
+        "birth_year": 2000,
+        "birthday": "2000-01-14",
+        "current_team": {
+            "acronym": "FUR",
+            "id": 126688,
+            "image_url": "https://cdn.pandascore.co/images/team/image/126688/220px_furia_uppercutlogo_square.png",
+            "location": "BR",
+            "modified_at": "2019-12-28T15:38:28Z",
+            "name": "FURIA Uppercut",
+            "slug": "furia-uppercut"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Ruan",
+        "hometown": "Porto Alegre - RS",
+        "id": 15245,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15245/220px_fur_anyyy_2020_split_1.png",
+        "last_name": "Silva",
+        "name": "Anyyy",
+        "nationality": "BR",
+        "role": "mid",
+        "slug": "anyyy"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Marcos",
+        "hometown": null,
+        "id": 15244,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15244/cariok-e7r25rqk.jpg",
+        "last_name": "Oliveira",
+        "name": "Cariok",
+        "nationality": null,
+        "role": "jun",
+        "slug": "cariok"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ONE",
+            "id": 643,
+            "image_url": "https://cdn.pandascore.co/images/team/image/643/team-one-e-sports-inkfrosd.png",
+            "location": "BR",
+            "modified_at": "2019-06-23T19:23:21Z",
+            "name": "Team oNe eSports",
+            "slug": "one-e-sports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Gustavo",
+        "hometown": null,
+        "id": 15243,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15243/name-2oiyi9lm.jpg",
+        "last_name": "Rodrigues",
+        "name": "Name",
+        "nationality": null,
+        "role": "top",
+        "slug": "name"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Raul",
+        "hometown": null,
+        "id": 15242,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15242/bressan-2voepdv8.jpg",
+        "last_name": "Bressan",
+        "name": "Bressan",
+        "nationality": null,
+        "role": "sup",
+        "slug": "bressan"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Lucca",
+        "hometown": null,
+        "id": 15241,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15241/regrets-e7xbd6c1.jpg",
+        "last_name": "Cortes",
+        "name": "Regrets",
+        "nationality": null,
+        "role": "jun",
+        "slug": "regrets"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "CNB",
+            "id": 156,
+            "image_url": "https://cdn.pandascore.co/images/team/image/156/cnb-e-sports-club-18yvbgr0.png",
+            "location": "BR",
+            "modified_at": "2019-09-07T16:31:10Z",
+            "name": "CNB e-Sports Club",
+            "slug": "cnb-e-sports-club"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Vin\u00edcius",
+        "hometown": "Brazil",
+        "id": 15240,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15240/bydeki-it2m9mb6.jpg",
+        "last_name": "Hideki",
+        "name": "Bydeki",
+        "nationality": null,
+        "role": "adc",
+        "slug": "bydeki"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "UP",
+            "id": 2884,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2884/idm-gaming-fteacgbn.png",
+            "location": "BR",
+            "modified_at": "2019-08-12T07:51:42Z",
+            "name": "Uppercut Esports",
+            "slug": "idm-gaming"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Benjamim",
+        "hometown": "Brazil",
+        "id": 15239,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15239/_.png",
+        "last_name": "de Barbi",
+        "name": "Hy0g4",
+        "nationality": "BR",
+        "role": "jun",
+        "slug": "hy0g4"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Heitor",
+        "hometown": null,
+        "id": 15238,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15238/perz-5trjvagn.jpg",
+        "last_name": "Gomes",
+        "name": "Perz",
+        "nationality": null,
+        "role": "adc",
+        "slug": "perz"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Guilherme",
+        "hometown": null,
+        "id": 15237,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15237/guigo-6fvkmaq2.jpg",
+        "last_name": "Ruiz",
+        "name": "Guigo",
+        "nationality": null,
+        "role": "top",
+        "slug": "guigo"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "LGT",
+            "id": 335,
+            "image_url": "https://cdn.pandascore.co/images/team/image/335/_.png",
+            "location": null,
+            "modified_at": "2018-11-14T13:27:36Z",
+            "name": "Legatum",
+            "slug": "legatum"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Ignacio",
+        "hometown": "Buenos Aires, Argentina",
+        "id": 15236,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15236/follow-aqhdvi0t.png",
+        "last_name": "Anderson",
+        "name": "Follow",
+        "nationality": null,
+        "role": "jun",
+        "slug": "follow"
+    },
+    {
+        "birth_year": 1998,
+        "birthday": "1998-09-21",
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Agust\u00edn",
+        "hometown": "Quilmes, Argentina",
+        "id": 15235,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15235/220px-PIX_Shmebu_2019_Split_2.png",
+        "last_name": "Valetti",
+        "name": "Shmebu",
+        "nationality": "AR",
+        "role": "sup",
+        "slug": "shmebulock"
+    },
+    {
+        "birth_year": 1999,
+        "birthday": "1999-11-06",
+        "current_team": {
+            "acronym": "PRG",
+            "id": 126535,
+            "image_url": "https://cdn.pandascore.co/images/team/image/126535/prodigy_esportslogo_square.png",
+            "location": null,
+            "modified_at": "2019-12-18T23:18:20Z",
+            "name": "Prodigy Esports",
+            "slug": "prodigy-esports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Tom\u00e1s",
+        "hometown": "Santiago, Chile",
+        "id": 15234,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15234/220px_prg_aloned_2020_split_1.png",
+        "last_name": "D\u00edaz Valiente ",
+        "name": "Aloned",
+        "nationality": "CL",
+        "role": "mid",
+        "slug": "aloned"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Antonio ",
+        "hometown": "Brazil",
+        "id": 15233,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15233/maynah-j97mw6as.jpg",
+        "last_name": "Maynah Costa de Ara\u00fajo",
+        "name": "Maynah",
+        "nationality": null,
+        "role": "sup",
+        "slug": "maynah"
+    },
+    {
+        "birth_year": 2001,
+        "birthday": "2001-04-29",
+        "current_team": {
+            "acronym": "PRG",
+            "id": 365,
+            "image_url": "https://cdn.pandascore.co/images/team/image/365/progaming-e-sports-10iyfq3l.png",
+            "location": "BR",
+            "modified_at": "2019-05-21T12:39:05Z",
+            "name": "ProGaming Esports",
+            "slug": "progaming-e-sports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Bruno",
+        "hometown": "Rio de Janeiro - RJ",
+        "id": 15232,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15232/hauz-56cl5zvt.jpg",
+        "last_name": "Ferreira",
+        "name": "Hauz",
+        "nationality": "BR",
+        "role": "mid",
+        "slug": "hauz"
+    },
+    {
+        "birth_year": 1997,
+        "birthday": "1997-11-19",
+        "current_team": {
+            "acronym": "RDP",
+            "id": 123146,
+            "image_url": "https://cdn.pandascore.co/images/team/image/123146/redemption-esports-9un44ycx.png",
+            "location": "BR",
+            "modified_at": "2019-12-18T23:20:13Z",
+            "name": "Redemption eSports Porto Alegre",
+            "slug": "redemption-esports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Diego",
+        "hometown": "Osasco - SP",
+        "id": 15231,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15231/220px_rdp_sephis_2020_split_1.png",
+        "last_name": "Alejandro",
+        "name": "Sephis",
+        "nationality": "BR",
+        "role": "jun",
+        "slug": "sephis"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Paulo",
+        "hometown": null,
+        "id": 15230,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15230/balto-bukw631x.jpg",
+        "last_name": "Vin\u00edcius",
+        "name": "Balto",
+        "nationality": null,
+        "role": "top",
+        "slug": "balto"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Lin",
+        "hometown": "China",
+        "id": 15229,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15229/soso-54ovgjhc.png",
+        "last_name": "Liu",
+        "name": "Soso",
+        "nationality": null,
+        "role": "adc",
+        "slug": "soso"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Li Peng",
+        "hometown": null,
+        "id": 15228,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15228/despair-5ilwgcx0.png",
+        "last_name": "Zhou",
+        "name": "Despa1r",
+        "nationality": null,
+        "role": "sup",
+        "slug": "despa1r"
+    },
+    {
+        "birth_year": 1998,
+        "birthday": "1998-10-26",
+        "current_team": {
+            "acronym": "BC",
+            "id": 649,
+            "image_url": "https://cdn.pandascore.co/images/team/image/649/Burning_Corelogo_square.png",
+            "location": "JP",
+            "modified_at": "2019-12-28T15:17:56Z",
+            "name": "Burning Core",
+            "slug": "burning-core"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Lee",
+        "hometown": "South Korea",
+        "id": 15227,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15227/220px_bc_proud_2020_split_1.png",
+        "last_name": "Jeong-jae",
+        "name": "Proud",
+        "nationality": "KR",
+        "role": "sup",
+        "slug": "proud"
+    },
+    {
+        "birth_year": 1999,
+        "birthday": "1999-03-12",
+        "current_team": {
+            "acronym": "EDGY",
+            "id": 3457,
+            "image_url": "https://cdn.pandascore.co/images/team/image/3457/avatar_1_af91580ec7c90cc42d0ed1bc479b8ba2.png",
+            "location": "CN",
+            "modified_at": "2019-12-12T16:25:54Z",
+            "name": "EDward Gaming Youth Team",
+            "slug": "edward-gaming-young"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Xi-Jian",
+        "hometown": "China",
+        "id": 15226,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15226/0.png",
+        "last_name": "Yao",
+        "name": "GENTLE",
+        "nationality": "CN",
+        "role": "adc",
+        "slug": "gentle"
+    },
+    {
+        "birth_year": 2001,
+        "birthday": "2001-05-26",
+        "current_team": {
+            "acronym": "WE",
+            "id": 2574,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2574/300px-Team_WElogo_square.png",
+            "location": "CN",
+            "modified_at": "2020-01-02T10:21:30Z",
+            "name": "Team WE",
+            "slug": "we"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Yunfeng",
+        "hometown": "China",
+        "id": 15224,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15224/220px_we_missing_2020_split_1.png",
+        "last_name": "Lou",
+        "name": "Missing",
+        "nationality": "CN",
+        "role": "sup",
+        "slug": "missing"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Yi-Xiong",
+        "hometown": "China",
+        "id": 15223,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15223/gyu-biygmxq0.png",
+        "last_name": "Gong",
+        "name": "Gyu",
+        "nationality": "CN",
+        "role": "mid",
+        "slug": "gyu"
+    },
+    {
+        "birth_year": 1997,
+        "birthday": "1997-08-23",
+        "current_team": {
+            "acronym": "mouz",
+            "id": 16,
+            "image_url": "https://cdn.pandascore.co/images/team/image/16/mousesports-29p77f8y.png",
+            "location": "DE",
+            "modified_at": "2020-01-20T16:52:05Z",
+            "name": "mousesports",
+            "slug": "mousesports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Patrick",
+        "hometown": "Germany",
+        "id": 15221,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15221/obsess-gfw2hrdn.png",
+        "last_name": "Engelmann",
+        "name": "Obsess",
+        "nationality": "DE",
+        "role": "jun",
+        "slug": "obsess"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Anders",
+        "hometown": "Denmark",
+        "id": 15220,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15220/220px-TPGM_Chronos_2018_Spring.jpg",
+        "last_name": "Schultz",
+        "name": "Kronos",
+        "nationality": null,
+        "role": "jun",
+        "slug": "kronos"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ZEN",
+            "id": 35,
+            "image_url": "https://cdn.pandascore.co/images/team/image/35/Zenith_eSportslogo_square.png",
+            "location": null,
+            "modified_at": "2019-01-30T13:31:39Z",
+            "name": "Zenith eSports",
+            "slug": "zenith-esports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15216,
+        "image_url": null,
+        "last_name": null,
+        "name": "ZEN k1",
+        "nationality": null,
+        "role": "sup",
+        "slug": "zen-k1"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ZEN",
+            "id": 35,
+            "image_url": "https://cdn.pandascore.co/images/team/image/35/Zenith_eSportslogo_square.png",
+            "location": null,
+            "modified_at": "2019-01-30T13:31:39Z",
+            "name": "Zenith eSports",
+            "slug": "zenith-esports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15215,
+        "image_url": null,
+        "last_name": null,
+        "name": "ZEN TheSoloKing",
+        "nationality": null,
+        "role": "top",
+        "slug": "zen-thesoloking"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "FSN",
+            "id": 2863,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2863/Team_Fusion_Gaming_Profile_v2.png",
+            "location": null,
+            "modified_at": "2018-06-04T19:28:43Z",
+            "name": "Fusion",
+            "slug": "fusion"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15214,
+        "image_url": null,
+        "last_name": null,
+        "name": "FSN Gleebglarbu",
+        "nationality": null,
+        "role": "sup",
+        "slug": "fsn-gleebglarbu"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "FSN",
+            "id": 2863,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2863/Team_Fusion_Gaming_Profile_v2.png",
+            "location": null,
+            "modified_at": "2018-06-04T19:28:43Z",
+            "name": "Fusion",
+            "slug": "fusion"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15213,
+        "image_url": null,
+        "last_name": null,
+        "name": "FSN MakNooN",
+        "nationality": null,
+        "role": "top",
+        "slug": "fsn-maknoon"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "NBT",
+            "id": 2881,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2018-10-16T10:22:15Z",
+            "name": "Noble Truth",
+            "slug": "noble-truth"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15212,
+        "image_url": null,
+        "last_name": null,
+        "name": "NTR Ralara",
+        "nationality": null,
+        "role": "sup",
+        "slug": "ntr-ralara"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "NBT",
+            "id": 2881,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2018-10-16T10:22:15Z",
+            "name": "Noble Truth",
+            "slug": "noble-truth"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15211,
+        "image_url": null,
+        "last_name": null,
+        "name": "NTR Nocturnal",
+        "nationality": null,
+        "role": "adc",
+        "slug": "ntr-nocturnal"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "NBT",
+            "id": 2881,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2018-10-16T10:22:15Z",
+            "name": "Noble Truth",
+            "slug": "noble-truth"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15210,
+        "image_url": null,
+        "last_name": null,
+        "name": "NTR Leonard",
+        "nationality": null,
+        "role": "mid",
+        "slug": "ntr-leonard"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "NBT",
+            "id": 2881,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2018-10-16T10:22:15Z",
+            "name": "Noble Truth",
+            "slug": "noble-truth"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15209,
+        "image_url": null,
+        "last_name": null,
+        "name": "NTR Razelock",
+        "nationality": null,
+        "role": "jun",
+        "slug": "ntr-razelock"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "NBT",
+            "id": 2881,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2018-10-16T10:22:15Z",
+            "name": "Noble Truth",
+            "slug": "noble-truth"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15208,
+        "image_url": null,
+        "last_name": null,
+        "name": "NTR Tonington",
+        "nationality": null,
+        "role": "top",
+        "slug": "ntr-tonington"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "FIS",
+            "id": 2880,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2880/FIS_logo.png",
+            "location": null,
+            "modified_at": "2018-06-04T18:07:11Z",
+            "name": "Fission Esports",
+            "slug": "fission-esports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15207,
+        "image_url": null,
+        "last_name": null,
+        "name": "FIS I Am The IRS",
+        "nationality": null,
+        "role": "adc",
+        "slug": "fis-i-am-the-irs"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "FIS",
+            "id": 2880,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2880/FIS_logo.png",
+            "location": null,
+            "modified_at": "2018-06-04T18:07:11Z",
+            "name": "Fission Esports",
+            "slug": "fission-esports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15206,
+        "image_url": null,
+        "last_name": null,
+        "name": "FIS Abou222",
+        "nationality": null,
+        "role": "mid",
+        "slug": "fis-abou222"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "LoLPro",
+            "id": 1575,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1575/300px-Team_LoLPro.png",
+            "location": null,
+            "modified_at": "2018-06-04T18:09:16Z",
+            "name": "Team LoLPro",
+            "slug": "team-lolpro"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15203,
+        "image_url": null,
+        "last_name": null,
+        "name": "PRO WizFujiiN",
+        "nationality": null,
+        "role": "adc",
+        "slug": "pro-wizfujiin"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "CG",
+            "id": 2878,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2878/300px-Call_Gaminglogo_square.png",
+            "location": null,
+            "modified_at": "2018-06-04T18:14:45Z",
+            "name": "Call Gaming",
+            "slug": "call-gaming"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15202,
+        "image_url": null,
+        "last_name": null,
+        "name": "CG Stuntopolis",
+        "nationality": null,
+        "role": "sup",
+        "slug": "cg-stuntopolis"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "CG",
+            "id": 2878,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2878/300px-Call_Gaminglogo_square.png",
+            "location": null,
+            "modified_at": "2018-06-04T18:14:45Z",
+            "name": "Call Gaming",
+            "slug": "call-gaming"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15201,
+        "image_url": null,
+        "last_name": null,
+        "name": "CG Environmental",
+        "nationality": null,
+        "role": "mid",
+        "slug": "cg-environmental"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "CG",
+            "id": 2878,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2878/300px-Call_Gaminglogo_square.png",
+            "location": null,
+            "modified_at": "2018-06-04T18:14:45Z",
+            "name": "Call Gaming",
+            "slug": "call-gaming"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15200,
+        "image_url": null,
+        "last_name": null,
+        "name": "CG lucid",
+        "nationality": null,
+        "role": "jun",
+        "slug": "cg-lucid"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "CG",
+            "id": 2878,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2878/300px-Call_Gaminglogo_square.png",
+            "location": null,
+            "modified_at": "2018-06-04T18:14:45Z",
+            "name": "Call Gaming",
+            "slug": "call-gaming"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15199,
+        "image_url": null,
+        "last_name": null,
+        "name": "CG DarkBlight",
+        "nationality": null,
+        "role": "top",
+        "slug": "cg-darkblight"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Andrew",
+        "hometown": "United States",
+        "id": 15198,
+        "image_url": null,
+        "last_name": "Kotera",
+        "name": "Hanjaro",
+        "nationality": null,
+        "role": "sup",
+        "slug": "mkz-hanjaro"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "FB",
+            "id": 2868,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2868/Team_Frostbite_Twitter_Avatar.png",
+            "location": null,
+            "modified_at": "2018-11-07T11:33:52Z",
+            "name": "Team Frostbite",
+            "slug": "team-frostbite"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15196,
+        "image_url": null,
+        "last_name": null,
+        "name": "FB Lovelova",
+        "nationality": null,
+        "role": "mid",
+        "slug": "fb-lovelova"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "FB",
+            "id": 2868,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2868/Team_Frostbite_Twitter_Avatar.png",
+            "location": null,
+            "modified_at": "2018-11-07T11:33:52Z",
+            "name": "Team Frostbite",
+            "slug": "team-frostbite"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15195,
+        "image_url": null,
+        "last_name": null,
+        "name": "FB Zaryab",
+        "nationality": null,
+        "role": "jun",
+        "slug": "fb-zaryab"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "FB",
+            "id": 2868,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2868/Team_Frostbite_Twitter_Avatar.png",
+            "location": null,
+            "modified_at": "2018-11-07T11:33:52Z",
+            "name": "Team Frostbite",
+            "slug": "team-frostbite"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15194,
+        "image_url": null,
+        "last_name": null,
+        "name": "FB poz",
+        "nationality": null,
+        "role": "top",
+        "slug": "fb-poz"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "T8",
+            "id": 6,
+            "image_url": "https://cdn.pandascore.co/images/team/image/6/Team8_logo.png",
+            "location": null,
+            "modified_at": "2018-10-14T09:04:47Z",
+            "name": "Team 8",
+            "slug": "team-8"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15193,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15193/P1_Slooshi_2016_Summer_2.png",
+        "last_name": null,
+        "name": "T8 slooshi8",
+        "nationality": null,
+        "role": "mid",
+        "slug": "t8-slooshi8"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15192,
+        "image_url": null,
+        "last_name": null,
+        "name": "EG Krepo",
+        "nationality": null,
+        "role": "sup",
+        "slug": "eg-krepo"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "SC",
+            "id": 2874,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2874/ShadowCreamlogo_square.png",
+            "location": "CN",
+            "modified_at": "2018-05-29T12:11:45Z",
+            "name": "ShadowCream",
+            "slug": "shadowcream"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Zeng",
+        "hometown": "China",
+        "id": 15190,
+        "image_url": null,
+        "last_name": "Shu-Quan ",
+        "name": "Urara",
+        "nationality": null,
+        "role": "adc",
+        "slug": "urara"
+    },
+    {
+        "birth_year": 1996,
+        "birthday": "1996-08-23",
+        "current_team": {
+            "acronym": "GD",
+            "id": 126164,
+            "image_url": "https://cdn.pandascore.co/images/team/image/126164/gama-dream.png",
+            "location": null,
+            "modified_at": "2020-01-21T07:40:38Z",
+            "name": "GAMADREAM",
+            "slug": "gama-dream"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Zhou",
+        "hometown": "China",
+        "id": 15187,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15187/zhuangzhou.png",
+        "last_name": "Yong-Chong",
+        "name": "Kabu",
+        "nationality": "CN",
+        "role": "sup",
+        "slug": "zhuangzhou"
+    },
+    {
+        "birth_year": 2000,
+        "birthday": "2000-09-16",
+        "current_team": {
+            "acronym": "SN",
+            "id": 652,
+            "image_url": "https://cdn.pandascore.co/images/team/image/652/_.png",
+            "location": "CN",
+            "modified_at": "2020-02-05T20:48:14Z",
+            "name": "Suning",
+            "slug": "sn-gaming"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Xiang",
+        "hometown": "China",
+        "id": 15186,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15186/220px_sn_angel_2020_split_1.png",
+        "last_name": "Tao",
+        "name": "Angel",
+        "nationality": "CN",
+        "role": "mid",
+        "slug": "angelo"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "TL",
+            "id": 2875,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2875/TyLoologo_square.png",
+            "location": "CN",
+            "modified_at": "2018-05-29T12:12:16Z",
+            "name": "TyLoo",
+            "slug": "tyloo"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Hu",
+        "hometown": "China",
+        "id": 15185,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15185/TLO_GuYueXin_2018_Spring.png",
+        "last_name": "Xin",
+        "name": "GuYueXin",
+        "nationality": null,
+        "role": "jun",
+        "slug": "guyuexin"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "TL",
+            "id": 2875,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2875/TyLoologo_square.png",
+            "location": "CN",
+            "modified_at": "2018-05-29T12:12:16Z",
+            "name": "TyLoo",
+            "slug": "tyloo"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Jiang",
+        "hometown": "China",
+        "id": 15184,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15184/TLO_Prower_2018_Spring.png",
+        "last_name": "Yu-Hui",
+        "name": "MaxPower",
+        "nationality": null,
+        "role": "top",
+        "slug": "maxpower"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "TL",
+            "id": 2875,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2875/TyLoologo_square.png",
+            "location": "CN",
+            "modified_at": "2018-05-29T12:12:16Z",
+            "name": "TyLoo",
+            "slug": "tyloo"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Zhang",
+        "hometown": "China",
+        "id": 15183,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15183/TL_ZIV_2018_Spring.png",
+        "last_name": "Xiao-Tian",
+        "name": "ZIV",
+        "nationality": null,
+        "role": "adc",
+        "slug": "ziv-zhang-xiao-tian"
+    },
+    {
+        "birth_year": 1995,
+        "birthday": "1995-07-17",
+        "current_team": {
+            "acronym": "RW",
+            "id": 1569,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1569/rogue-warriors-1kvtwjow.png",
+            "location": "CN",
+            "modified_at": "2020-01-02T10:16:40Z",
+            "name": "Rogue Warriors",
+            "slug": "rogue-warriors"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Long-Yang",
+        "hometown": null,
+        "id": 15182,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15182/longdan-xia-long-yang.png",
+        "last_name": "Xia",
+        "name": "Huanggai",
+        "nationality": "CN",
+        "role": "sup",
+        "slug": "longdan-xia-long-yang"
+    },
+    {
+        "birth_year": 1998,
+        "birthday": "1998-05-07",
+        "current_team": {
+            "acronym": "WE.A",
+            "id": 125992,
+            "image_url": "https://cdn.pandascore.co/images/team/image/125992/Team_WE_Academylogo_square.png",
+            "location": "CN",
+            "modified_at": "2020-01-19T04:08:16Z",
+            "name": "WE.ACADEMY",
+            "slug": "team-we-academy"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Kai",
+        "hometown": "China",
+        "id": 15181,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15181/WEA_hardgirl_2019_Split_1.png",
+        "last_name": "Jin",
+        "name": "hardgirl",
+        "nationality": "CN",
+        "role": "adc",
+        "slug": "hardgirl"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "SC",
+            "id": 2874,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2874/ShadowCreamlogo_square.png",
+            "location": "CN",
+            "modified_at": "2018-05-29T12:11:45Z",
+            "name": "ShadowCream",
+            "slug": "shadowcream"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Huang",
+        "hometown": "China",
+        "id": 15180,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15180/SC_Tianqiu_2018_Spring.png",
+        "last_name": "Yi-Jun",
+        "name": "Tianqiu",
+        "nationality": null,
+        "role": "mid",
+        "slug": "longdan"
+    },
+    {
+        "birth_year": 1997,
+        "birthday": "1997-09-09",
+        "current_team": {
+            "acronym": "V5",
+            "id": 120567,
+            "image_url": "https://cdn.pandascore.co/images/team/image/120567/Victory_Fivelogo_square.png",
+            "location": "MO",
+            "modified_at": "2020-01-16T09:35:21Z",
+            "name": "Victory Five",
+            "slug": "victory-five"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Li",
+        "hometown": "China",
+        "id": 15179,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15179/220px_v5_997_2020_split_1.png",
+        "last_name": "Hao-Feng",
+        "name": "997",
+        "nationality": "CN",
+        "role": "top",
+        "slug": "qingzui997"
+    },
+    {
+        "birth_year": 1999,
+        "birthday": "1999-11-05",
+        "current_team": {
+            "acronym": "BLG.J",
+            "id": 125984,
+            "image_url": "https://cdn.pandascore.co/images/team/image/125984/Bilibili_Gaming_Juniorlogo_square.png",
+            "location": "CN",
+            "modified_at": "2019-09-08T16:09:47Z",
+            "name": "Bilibili Gaming",
+            "slug": "bilibili-gaming-junior"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Jiao-hao",
+        "hometown": "China",
+        "id": 15178,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15178/220px-MSC_M1anhua_2018_Spring.png",
+        "last_name": "Chen",
+        "name": "M1anhua",
+        "nationality": "CN",
+        "role": "jun",
+        "slug": "m1anhua"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ZEN",
+            "id": 35,
+            "image_url": "https://cdn.pandascore.co/images/team/image/35/Zenith_eSportslogo_square.png",
+            "location": null,
+            "modified_at": "2019-01-30T13:31:39Z",
+            "name": "Zenith eSports",
+            "slug": "zenith-esports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15177,
+        "image_url": null,
+        "last_name": null,
+        "name": "ZEN csi",
+        "nationality": null,
+        "role": "sup",
+        "slug": "zen-csi"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ZEN",
+            "id": 35,
+            "image_url": "https://cdn.pandascore.co/images/team/image/35/Zenith_eSportslogo_square.png",
+            "location": null,
+            "modified_at": "2019-01-30T13:31:39Z",
+            "name": "Zenith eSports",
+            "slug": "zenith-esports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15176,
+        "image_url": null,
+        "last_name": null,
+        "name": "ZEN Ex0h",
+        "nationality": null,
+        "role": "adc",
+        "slug": "zen-ex0h"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ZEN",
+            "id": 35,
+            "image_url": "https://cdn.pandascore.co/images/team/image/35/Zenith_eSportslogo_square.png",
+            "location": null,
+            "modified_at": "2019-01-30T13:31:39Z",
+            "name": "Zenith eSports",
+            "slug": "zenith-esports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15175,
+        "image_url": null,
+        "last_name": null,
+        "name": "ZEN Fas Scriptor",
+        "nationality": null,
+        "role": "mid",
+        "slug": "zen-fas-scriptor"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ZEN",
+            "id": 35,
+            "image_url": "https://cdn.pandascore.co/images/team/image/35/Zenith_eSportslogo_square.png",
+            "location": null,
+            "modified_at": "2019-01-30T13:31:39Z",
+            "name": "Zenith eSports",
+            "slug": "zenith-esports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15174,
+        "image_url": null,
+        "last_name": null,
+        "name": "ZEN Scorpion",
+        "nationality": null,
+        "role": "jun",
+        "slug": "zen-scorpion"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "STR",
+            "id": 2867,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2867/600px-Stormlogo_square.png",
+            "location": null,
+            "modified_at": "2018-06-11T06:38:16Z",
+            "name": "Storm",
+            "slug": "storm"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15173,
+        "image_url": null,
+        "last_name": null,
+        "name": "STR babyeator",
+        "nationality": null,
+        "role": "sup",
+        "slug": "str-babyeator"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "BWL",
+            "id": 343,
+            "image_url": "https://cdn.pandascore.co/images/team/image/343/brawl-esports-84akdiln.png",
+            "location": null,
+            "modified_at": "2018-12-11T11:20:40Z",
+            "name": "BrawL eSports",
+            "slug": "brawl-esports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15172,
+        "image_url": null,
+        "last_name": null,
+        "name": "BWL Altrum",
+        "nationality": null,
+        "role": "mid",
+        "slug": "bwl-altrum"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "DRK",
+            "id": 2865,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2018-06-11T06:37:14Z",
+            "name": "Darkness",
+            "slug": "darkness"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15170,
+        "image_url": null,
+        "last_name": null,
+        "name": "DRK Wahoolahoola",
+        "nationality": null,
+        "role": "mid",
+        "slug": "drk-wahoolahoola"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "DRK",
+            "id": 2865,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2018-06-11T06:37:14Z",
+            "name": "Darkness",
+            "slug": "darkness"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15169,
+        "image_url": null,
+        "last_name": null,
+        "name": "DRK GuriAndGunji",
+        "nationality": null,
+        "role": "top",
+        "slug": "drk-guriandgunji"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "TDK",
+            "id": 391,
+            "image_url": "https://cdn.pandascore.co/images/team/image/391/team-dragon-knights-hh39eds4.png",
+            "location": null,
+            "modified_at": "2018-11-06T12:36:29Z",
+            "name": "Dragon Knights",
+            "slug": "dragon-knights"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15168,
+        "image_url": null,
+        "last_name": null,
+        "name": "TDK Maria",
+        "nationality": null,
+        "role": "adc",
+        "slug": "tdk-maria"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "F5",
+            "id": 84,
+            "image_url": "https://cdn.pandascore.co/images/team/image/84/Final_Five_Logo_infobox.png",
+            "location": null,
+            "modified_at": "2018-06-04T11:25:20Z",
+            "name": "Final Five",
+            "slug": "final-five"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15164,
+        "image_url": null,
+        "last_name": null,
+        "name": "F5 Rule18",
+        "nationality": null,
+        "role": "sup",
+        "slug": "f5-rule18"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15156,
+        "image_url": null,
+        "last_name": null,
+        "name": "RNG Remilia",
+        "nationality": null,
+        "role": null,
+        "slug": "rng-remilia"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15155,
+        "image_url": null,
+        "last_name": null,
+        "name": "RNG maplestreet",
+        "nationality": null,
+        "role": null,
+        "slug": "rng-maplestreet"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15154,
+        "image_url": null,
+        "last_name": null,
+        "name": "RNG Alex ich",
+        "nationality": null,
+        "role": null,
+        "slug": "rng-alex-ich"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ARB",
+            "id": 2869,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2018-05-24T14:00:01Z",
+            "name": "The Arbiters",
+            "slug": "the-arbiters"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15151,
+        "image_url": null,
+        "last_name": null,
+        "name": "AZNDEVIL",
+        "nationality": null,
+        "role": "sup",
+        "slug": "azndevil"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ARB",
+            "id": 2869,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2018-05-24T14:00:01Z",
+            "name": "The Arbiters",
+            "slug": "the-arbiters"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15150,
+        "image_url": null,
+        "last_name": null,
+        "name": "Sunar",
+        "nationality": null,
+        "role": "mid",
+        "slug": "sunar"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ARB",
+            "id": 2869,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2018-05-24T14:00:01Z",
+            "name": "The Arbiters",
+            "slug": "the-arbiters"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15149,
+        "image_url": null,
+        "last_name": null,
+        "name": "Jacka",
+        "nationality": null,
+        "role": "jun",
+        "slug": "jacka"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ARB",
+            "id": 2869,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2018-05-24T14:00:01Z",
+            "name": "The Arbiters",
+            "slug": "the-arbiters"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15148,
+        "image_url": null,
+        "last_name": null,
+        "name": "Yook",
+        "nationality": null,
+        "role": "top",
+        "slug": "yook"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "STR",
+            "id": 2867,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2867/600px-Stormlogo_square.png",
+            "location": null,
+            "modified_at": "2018-06-11T06:38:16Z",
+            "name": "Storm",
+            "slug": "storm"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Dominic",
+        "hometown": "Canada",
+        "id": 15147,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15147/Dominic.jpg",
+        "last_name": "Gilber-Julien",
+        "name": "Doomtrobo",
+        "nationality": null,
+        "role": "jun",
+        "slug": "doomtrobo"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "RR",
+            "id": 2866,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2866/300px-Roar__Chinese_Team_logo_square.png",
+            "location": null,
+            "modified_at": "2019-05-24T12:51:39Z",
+            "name": "Roar",
+            "slug": "roar"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Shan",
+        "hometown": "China",
+        "id": 15146,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15146/440px-Chaox_in_asia.png",
+        "last_name": "Huang",
+        "name": "Chaox",
+        "nationality": null,
+        "role": "adc",
+        "slug": "chaox"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "RR",
+            "id": 2866,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2866/300px-Roar__Chinese_Team_logo_square.png",
+            "location": null,
+            "modified_at": "2019-05-24T12:51:39Z",
+            "name": "Roar",
+            "slug": "roar"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Chen",
+        "hometown": "China",
+        "id": 15145,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15145/Xiasu.jpg",
+        "last_name": "Long",
+        "name": "Xiasu",
+        "nationality": null,
+        "role": "mid",
+        "slug": "xiasu"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "OO",
+            "id": 2885,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2885/300px-Infinity_Esports__2015_North_American_Team_logo_square.png",
+            "location": "CR",
+            "modified_at": "2019-03-25T11:12:52Z",
+            "name": "Infinity Esports",
+            "slug": "infinity-esports-league-of-legends"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Jordan",
+        "hometown": "United States",
+        "id": 15144,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15144/Hoofspark.png",
+        "last_name": "Batchelder",
+        "name": "Hoofspark",
+        "nationality": null,
+        "role": "adc",
+        "slug": "hoofspark"
+    },
+    {
+        "birth_year": 1994,
+        "birthday": "1994-08-07",
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Jesus",
+        "hometown": "Argentina",
+        "id": 15143,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15143/JTH_Minibestia_CLN_Clausura_2016.jpg",
+        "last_name": "Coll",
+        "name": "Minibestia",
+        "nationality": "AR",
+        "role": "sup",
+        "slug": "minibestia"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "DRK",
+            "id": 2865,
+            "image_url": null,
+            "location": null,
+            "modified_at": "2018-06-11T06:37:14Z",
+            "name": "Darkness",
+            "slug": "darkness"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Alec",
+        "hometown": "United States",
+        "id": 15142,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15142/220px-GCU_BonQuish_2017_Summer.png",
+        "last_name": "Warren",
+        "name": "Baby Zeus",
+        "nationality": null,
+        "role": "top",
+        "slug": "baby-zeus"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "NME",
+            "id": 10,
+            "image_url": "https://cdn.pandascore.co/images/team/image/10/enemy-esports-hash116b.png",
+            "location": null,
+            "modified_at": "2018-11-06T12:36:26Z",
+            "name": "Enemy",
+            "slug": "enemy-esports"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Bradley",
+        "hometown": "United States",
+        "id": 15141,
+        "image_url": null,
+        "last_name": "Marx",
+        "name": "Lazy",
+        "nationality": null,
+        "role": null,
+        "slug": "lazy"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Kenny",
+        "hometown": "United States",
+        "id": 15130,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15130/220px-NME_iKennyU_2016_Spring.png",
+        "last_name": "Nguyen",
+        "name": "i KeNNy u",
+        "nationality": null,
+        "role": "sup",
+        "slug": "i-kenny-u-kenny-nguyen"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "WFX",
+            "id": 86,
+            "image_url": "https://cdn.pandascore.co/images/team/image/86/Winterfox_Logo_Update.png",
+            "location": null,
+            "modified_at": "2018-11-06T12:09:47Z",
+            "name": "Winterfox",
+            "slug": "winterfox"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Kenneth",
+        "hometown": "United states",
+        "id": 15129,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15129/220px-NVA_Ken_2016_Summer.png",
+        "last_name": "Tang",
+        "name": "Ken",
+        "nationality": null,
+        "role": "sup",
+        "slug": "ken-kenneth-tang"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "CW",
+            "id": 25,
+            "image_url": "https://cdn.pandascore.co/images/team/image/25/copenhagen-wolves-ak8vgfwr.png",
+            "location": "DK",
+            "modified_at": "2018-10-18T17:06:12Z",
+            "name": "Copenhagen Wolves",
+            "slug": "copenhagen-wolves"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15127,
+        "image_url": null,
+        "last_name": null,
+        "name": "CW SorenXD",
+        "nationality": null,
+        "role": "mid",
+        "slug": "cw-sorenxd"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "MC",
+            "id": 2855,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2855/300px-Meloncatslogo_square.png",
+            "location": null,
+            "modified_at": "2018-10-04T19:11:00Z",
+            "name": "Meloncats",
+            "slug": "meloncats"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15125,
+        "image_url": null,
+        "last_name": null,
+        "name": "MC Zeclipse",
+        "nationality": null,
+        "role": "top",
+        "slug": "mc-zeclipse"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "DD",
+            "id": 2857,
+            "image_url": "https://cdn.pandascore.co/images/team/image/2857/300px-Dd_logo_august_2015.png",
+            "location": null,
+            "modified_at": "2018-10-18T15:37:15Z",
+            "name": "Different Dimension",
+            "slug": "different-dimension"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15124,
+        "image_url": null,
+        "last_name": null,
+        "name": "DD WarriorLady",
+        "nationality": null,
+        "role": "top",
+        "slug": "dd-warriorlady"
+    },
+    {
+        "birth_year": 1990,
+        "birthday": "1990-06-15",
+        "current_team": null,
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": "Carlos",
+        "hometown": null,
+        "id": 15123,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15123/220px-G2ocelote.jpg",
+        "last_name": "Santiago",
+        "name": "Ocelote",
+        "nationality": "ES",
+        "role": "mid",
+        "slug": "g2-ocelote"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ASC",
+            "id": 661,
+            "image_url": "https://cdn.pandascore.co/images/team/image/661/ascension-3gomh82x.png",
+            "location": null,
+            "modified_at": "2018-10-04T19:10:58Z",
+            "name": "Ascension Gaming",
+            "slug": "ascension-gaming"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15122,
+        "image_url": null,
+        "last_name": null,
+        "name": "ASC Ladooscuro",
+        "nationality": null,
+        "role": "adc",
+        "slug": "asc-ladooscuro"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ASC",
+            "id": 661,
+            "image_url": "https://cdn.pandascore.co/images/team/image/661/ascension-3gomh82x.png",
+            "location": null,
+            "modified_at": "2018-10-04T19:10:58Z",
+            "name": "Ascension Gaming",
+            "slug": "ascension-gaming"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15121,
+        "image_url": null,
+        "last_name": null,
+        "name": "ASC Flezeth",
+        "nationality": null,
+        "role": "mid",
+        "slug": "asc-flezeth"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "ASC",
+            "id": 661,
+            "image_url": "https://cdn.pandascore.co/images/team/image/661/ascension-3gomh82x.png",
+            "location": null,
+            "modified_at": "2018-10-04T19:10:58Z",
+            "name": "Ascension Gaming",
+            "slug": "ascension-gaming"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15120,
+        "image_url": null,
+        "last_name": null,
+        "name": "ASC Mister",
+        "nationality": null,
+        "role": "jun",
+        "slug": "asc-mister"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "EL",
+            "id": 23,
+            "image_url": "https://cdn.pandascore.co/images/team/image/23/130px-Elements_logo_summer.png",
+            "location": "RU",
+            "modified_at": "2018-10-04T20:33:25Z",
+            "name": "Elements",
+            "slug": "elements"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15117,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15117/El-krepo-2015spring.jpg",
+        "last_name": null,
+        "name": "EL Krepo",
+        "nationality": null,
+        "role": "sup",
+        "slug": "el-krepo"
+    },
+    {
+        "birth_year": null,
+        "birthday": null,
+        "current_team": {
+            "acronym": "MYM",
+            "id": 245,
+            "image_url": "https://cdn.pandascore.co/images/team/image/245/MYM_logo.png",
+            "location": null,
+            "modified_at": "2018-10-04T18:49:08Z",
+            "name": "Meet Your Makers",
+            "slug": "meet-your-makers"
+        },
+        "current_videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "first_name": null,
+        "hometown": null,
+        "id": 15116,
+        "image_url": "https://cdn.pandascore.co/images/player/image/15116/H2K_Selfie_2018_Split_2.png",
+        "last_name": null,
+        "name": "MYM kori",
+        "nationality": null,
+        "role": "mid",
+        "slug": "mym-kori"
+    }
+]
